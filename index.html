@@ -131,6 +131,28 @@ main { padding: 12px; max-width: 600px; margin: 0 auto; }
   align-items: flex-start;
   box-shadow: 0 1px 2px rgba(0,0,0,0.04);
 }
+.event-card .actions { display: flex; align-items: center; }
+.btn-book {
+  background: var(--green);
+  color: #fff;
+  border: none;
+  padding: 7px 12px;
+  border-radius: 8px;
+  font-size: 12px;
+  font-weight: 700;
+  cursor: pointer;
+  white-space: nowrap;
+  text-decoration: none;
+  display: inline-block;
+}
+.btn-book:active { background: #1f3f1f; }
+.btn-book:disabled, .btn-book.disabled {
+  background: #d5d5d1;
+  color: #888;
+  cursor: not-allowed;
+  pointer-events: none;
+}
+.btn-book.booked { background: #1976d2; }
 .event-card.full { border-left-color: #c62828; opacity: 0.7; }
 .event-card.almost { border-left-color: #e67e22; }
 .event-card.booked { border-left-color: #1976d2; background: #eff5fc; }
@@ -366,6 +388,19 @@ function render() {
     groups[k].forEach(ev => {
       const card = document.createElement('div');
       card.className = 'event-card ' + ev.status;
+      // Build deep link to nexxchange for this event's date
+      const [y, m, d] = ev.iso.split('-').map(Number);
+      const dateParam = d + '.' + m + '.' + y;
+      const bookUrl = 'https://www.nexxchange.com/search/events/ugolf-saint-ouen-laumone?date=' +
+                      dateParam + '&start=0&limit=50';
+      let btnHtml;
+      if (ev.status === 'booked') {
+        btnHtml = '<button class="btn-book booked" disabled>✓ Réservé</button>';
+      } else if (ev.status === 'full') {
+        btnHtml = '<button class="btn-book" disabled>Complet</button>';
+      } else {
+        btnHtml = '<a class="btn-book" href="' + bookUrl + '" target="_blank" rel="noopener">Réserver</a>';
+      }
       card.innerHTML = `
         <div class="time">${ev.start || '—'}<span class="end">${ev.end || ''}</span></div>
         <div class="event-main">
@@ -376,6 +411,7 @@ function render() {
             ${ev.coach ? '<span>· ' + escapeHtml(ev.coach) + '</span>' : ''}
           </div>
         </div>
+        <div class="actions">${btnHtml}</div>
       `;
       group.appendChild(card);
     });
