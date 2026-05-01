@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#2D5A2D">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<title>Golf UGOLF</title>
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icon-192.png">
+<link rel="apple-touch-icon" href="icon-192.png">
+<style>
+:root {
+  color-scheme: light;
+  --bg: #fafaf7;
+  --card: #fff;
+  --text: #1a1a1a;
+  --muted: #6a6a66;
+  --green: #2D5A2D;
+  --line: #e0ddd0;
+}
+* { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+html, body { margin: 0; padding: 0; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.4;
+  padding-bottom: env(safe-area-inset-bottom);
+}
+header {
+  background: var(--green);
+  color: #fff;
+  padding: 14px 16px calc(env(safe-area-inset-top) + 14px);
+  padding-top: max(14px, env(safe-area-inset-top));
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+header .row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+}
+h1 { font-size: 17px; margin: 0; font-weight: 700; }
+.last-update { font-size: 11px; opacity: 0.85; margin-top: 2px; }
+.btn-refresh {
+  background: rgba(255,255,255,0.15);
+  border: 1px solid rgba(255,255,255,0.4);
+  color: #fff;
+  padding: 6px 10px;
+  border-radius: 8px;
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.btn-refresh:active { background: rgba(255,255,255,0.3); }
+.btn-refresh.loading { opacity: 0.6; pointer-events: none; }
+main { padding: 12px; max-width: 600px; margin: 0 auto; }
+.summary {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 6px;
+  margin-bottom: 14px;
+}
+.metric {
+  padding: 10px 4px;
+  border-radius: 8px;
+  text-align: center;
+}
+.metric .label { font-size: 10px; text-transform: uppercase; letter-spacing: 0.04em; }
+.metric .value { font-size: 20px; font-weight: 700; margin-top: 2px; }
+.m-booked { background: #B5D4F4; color: #042C53; }
+.m-ok     { background: #C0DD97; color: #173404; }
+.m-almost { background: #FAC775; color: #412402; }
+.m-full   { background: #F7C1C1; color: #501313; }
+.filters {
+  display: flex;
+  gap: 6px;
+  overflow-x: auto;
+  padding: 6px 0 10px;
+  margin: 0 -12px 4px;
+  padding-left: 12px;
+  padding-right: 12px;
+  scrollbar-width: none;
+}
+.filters::-webkit-scrollbar { display: none; }
+.chip {
+  padding: 6px 12px;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  font-size: 13px;
+  white-space: nowrap;
+  color: var(--text);
+  cursor: pointer;
+  user-select: none;
+}
+.chip.active { background: var(--green); color: #fff; border-color: var(--green); }
+.day-group { margin-bottom: 14px; }
+.day-header {
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--muted);
+  font-weight: 700;
+  padding: 8px 4px 6px;
+  background: var(--bg);
+  position: sticky;
+  top: 64px;
+  z-index: 5;
+}
+.day-header .hint {
+  color: var(--green);
+  text-transform: none;
+  letter-spacing: 0;
+  margin-left: 8px;
+  font-weight: 500;
+}
+.event-card {
+  background: var(--card);
+  border-radius: 10px;
+  padding: 10px 12px;
+  margin-bottom: 6px;
+  border-left: 4px solid #4a7d4a;
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+}
+.event-card.full { border-left-color: #c62828; opacity: 0.7; }
+.event-card.almost { border-left-color: #e67e22; }
+.event-card.booked { border-left-color: #1976d2; background: #eff5fc; }
+.time {
+  font-size: 14px;
+  font-weight: 700;
+  min-width: 48px;
+  text-align: right;
+}
+.time .end { font-weight: 400; color: var(--muted); font-size: 11px; display: block; }
+.event-main { flex: 1; min-width: 0; }
+.title { font-size: 14px; font-weight: 500; line-height: 1.3; }
+.meta { font-size: 11px; color: var(--muted); margin-top: 4px; display: flex; gap: 6px; align-items: center; flex-wrap: wrap; }
+.status-pill {
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 700;
+  padding: 2px 7px;
+  border-radius: 4px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.s-ok { background: #e6f4ea; color: #1e6e3a; }
+.s-almost { background: #fdebd3; color: #8a4d00; }
+.s-full { background: #fdecea; color: #b3261e; }
+.s-booked { background: #d6eafd; color: #0d47a1; }
+.empty, .loading, .error {
+  padding: 30px 14px;
+  text-align: center;
+  color: var(--muted);
+  font-size: 13px;
+}
+.error { color: #b3261e; }
+.spinner {
+  display: inline-block;
+  width: 14px; height: 14px;
+  border: 2px solid #e0e0d8;
+  border-top-color: var(--green);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+  vertical-align: middle;
+  margin-right: 8px;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+.toast {
+  position: fixed;
+  bottom: calc(20px + env(safe-area-inset-bottom));
+  left: 50%;
+  transform: translateX(-50%);
+  background: #1a1a1a;
+  color: #fff;
+  padding: 10px 16px;
+  border-radius: 8px;
+  font-size: 13px;
+  opacity: 0;
+  transition: opacity 0.2s;
+  pointer-events: none;
+  z-index: 100;
+}
+.toast.show { opacity: 1; }
+</style>
+</head>
+<body>
+<header>
+  <div class="row">
+    <div>
+      <h1>Golf UGOLF Saint-Ouen</h1>
+      <div class="last-update" id="lastUpdate">—</div>
+    </div>
+    <button class="btn-refresh" id="refreshBtn" onclick="loadData(true)">↻</button>
+  </div>
+</header>
+<main>
+  <div class="summary" id="summary"></div>
+  <div class="filters" id="filters"></div>
+  <div id="content" class="loading"><span class="spinner"></span>Chargement…</div>
+</main>
+<div class="toast" id="toast"></div>
+
+<script>
+const STATUS_LABELS = { ok: 'Dispo', almost: 'Presque', full: 'Complet', booked: 'Réservé' };
+const FILTERS = [
+  { id: 'all', label: 'Tous' },
+  { id: 'avail', label: 'Dispos' },
+  { id: 'booked', label: 'Mes résa' },
+  { id: 'PERF', label: 'PERF' },
+  { id: 'ALL4U', label: 'ALL4U' }
+];
+let DEFAULT_DAYS = 14;
+let currentFilter = localStorage.getItem('filter') || 'all';
+let allEvents = [];
+let lastFetchedAt = null;
+
+const $ = (id) => document.getElementById(id);
+
+function showToast(msg) {
+  const t = $('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  clearTimeout(showToast._t);
+  showToast._t = setTimeout(() => t.classList.remove('show'), 2400);
+}
+
+async function loadData(forceFresh = false) {
+  const btn = $('refreshBtn');
+  btn.classList.add('loading');
+  $('content').className = 'loading';
+  $('content').innerHTML = '<span class="spinner"></span>Chargement…';
+  try {
+    const url = 'data.json' + (forceFresh ? '?t=' + Date.now() : '');
+    const r = await fetch(url, { cache: forceFresh ? 'no-cache' : 'default' });
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    const data = await r.json();
+    allEvents = data.events || [];
+    lastFetchedAt = data.generatedAt;
+    updateLastUpdate();
+    render();
+    if (forceFresh) showToast('Mis à jour');
+  } catch (e) {
+    $('content').className = 'error';
+    $('content').textContent = 'Erreur de chargement : ' + e.message;
+  } finally {
+    btn.classList.remove('loading');
+  }
+}
+
+function updateLastUpdate() {
+  if (!lastFetchedAt) { $('lastUpdate').textContent = '—'; return; }
+  const d = new Date(lastFetchedAt);
+  const now = new Date();
+  const diff = Math.floor((now - d) / 60000);
+  let txt;
+  if (diff < 1) txt = 'à jour à l\'instant';
+  else if (diff < 60) txt = 'à jour il y a ' + diff + ' min';
+  else if (diff < 1440) txt = 'à jour il y a ' + Math.floor(diff / 60) + ' h';
+  else txt = 'à jour le ' + d.toLocaleDateString('fr-FR', { day: 'numeric', month: 'short' });
+  $('lastUpdate').textContent = txt;
+}
+setInterval(updateLastUpdate, 60000);
+
+function renderFilters() {
+  const f = $('filters');
+  f.innerHTML = '';
+  FILTERS.forEach(opt => {
+    const c = document.createElement('span');
+    c.className = 'chip' + (opt.id === currentFilter ? ' active' : '');
+    c.textContent = opt.label;
+    c.onclick = () => {
+      currentFilter = opt.id;
+      localStorage.setItem('filter', opt.id);
+      render();
+    };
+    f.appendChild(c);
+  });
+}
+
+function matchFilter(ev) {
+  if (currentFilter === 'all') return true;
+  if (currentFilter === 'avail') return ev.status === 'ok' || ev.status === 'almost';
+  if (currentFilter === 'booked') return ev.status === 'booked';
+  if (currentFilter === 'PERF') return /\bperf\b/i.test(ev.title) && !/all\s*4u/i.test(ev.title);
+  if (currentFilter === 'ALL4U') return /all\s*4u/i.test(ev.title);
+  return true;
+}
+
+function dayLabel(iso) {
+  const [y, m, d] = iso.split('-').map(Number);
+  const dt = new Date(y, m - 1, d);
+  const t0 = new Date(); t0.setHours(0, 0, 0, 0);
+  const diff = Math.round((dt - t0) / 86400000);
+  let label = dt.toLocaleDateString('fr-FR', { weekday: 'long', day: 'numeric', month: 'long' });
+  label = label.charAt(0).toUpperCase() + label.slice(1);
+  let hint = '';
+  if (diff === 0) hint = "aujourd'hui";
+  else if (diff === 1) hint = 'demain';
+  else if (diff > 1 && diff < 7) hint = 'dans ' + diff + ' j';
+  return { label, hint };
+}
+
+function render() {
+  renderFilters();
+  // Filter events
+  const today = new Date(); today.setHours(0, 0, 0, 0);
+  const limit = new Date(today); limit.setDate(today.getDate() + DEFAULT_DAYS);
+  const filtered = allEvents.filter(ev => {
+    if (!ev.iso) return false;
+    const [y, m, d] = ev.iso.split('-').map(Number);
+    const evDate = new Date(y, m - 1, d);
+    if (evDate < today || evDate > limit) return false;
+    return matchFilter(ev);
+  });
+
+  // Counts (across all events in period for summary)
+  const periodEvents = allEvents.filter(ev => {
+    if (!ev.iso) return false;
+    const [y, m, d] = ev.iso.split('-').map(Number);
+    const evDate = new Date(y, m - 1, d);
+    return evDate >= today && evDate <= limit;
+  });
+  const counts = { booked: 0, ok: 0, almost: 0, full: 0 };
+  periodEvents.forEach(ev => { if (counts[ev.status] !== undefined) counts[ev.status]++; });
+
+  // Render summary
+  $('summary').innerHTML = `
+    <div class="metric m-booked"><div class="label">Réservés</div><div class="value">${counts.booked}</div></div>
+    <div class="metric m-ok"><div class="label">Dispos</div><div class="value">${counts.ok}</div></div>
+    <div class="metric m-almost"><div class="label">Presque</div><div class="value">${counts.almost}</div></div>
+    <div class="metric m-full"><div class="label">Complets</div><div class="value">${counts.full}</div></div>
+  `;
+
+  // Group by day
+  if (filtered.length === 0) {
+    $('content').className = 'empty';
+    $('content').textContent = 'Aucun cours dans cette catégorie sur les ' + DEFAULT_DAYS + ' prochains jours.';
+    return;
+  }
+  const groups = {};
+  filtered.forEach(ev => {
+    if (!groups[ev.iso]) groups[ev.iso] = [];
+    groups[ev.iso].push(ev);
+  });
+  const keys = Object.keys(groups).sort();
+  $('content').className = '';
+  $('content').innerHTML = '';
+  keys.forEach(k => {
+    const group = document.createElement('div');
+    group.className = 'day-group';
+    const hdr = document.createElement('div');
+    hdr.className = 'day-header';
+    const lbl = dayLabel(k);
+    hdr.innerHTML = lbl.label + (lbl.hint ? '<span class="hint">· ' + lbl.hint + '</span>' : '');
+    group.appendChild(hdr);
+    groups[k].forEach(ev => {
+      const card = document.createElement('div');
+      card.className = 'event-card ' + ev.status;
+      card.innerHTML = `
+        <div class="time">${ev.start || '—'}<span class="end">${ev.end || ''}</span></div>
+        <div class="event-main">
+          <div class="title">${escapeHtml(ev.title)}</div>
+          <div class="meta">
+            <span class="status-pill s-${ev.status}">${STATUS_LABELS[ev.status] || ev.status}</span>
+            ${ev.participants ? '<span>' + escapeHtml(ev.participants) + '</span>' : ''}
+            ${ev.coach ? '<span>· ' + escapeHtml(ev.coach) + '</span>' : ''}
+          </div>
+        </div>
+      `;
+      group.appendChild(card);
+    });
+    $('content').appendChild(group);
+  });
+}
+
+function escapeHtml(s) {
+  return (s || '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+}
+
+// Auto-reload data when app is opened (visibility change)
+document.addEventListener('visibilitychange', () => {
+  if (!document.hidden) loadData(true);
+});
+
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('sw.js').catch(() => {});
+  });
+}
+
+loadData();
+</script>
+</body>
+</html>
