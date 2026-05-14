@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-14T02:51:05.668Z",
+  "generatedAt": "2026-05-14T15:06:15.414Z",
   "events": [
     {
       "iso": "2026-05-14",
       "start": "10:00",
       "end": "11:00",
-      "status": "almost",
-      "participants": "7/8",
+      "status": "full",
+      "participants": "8/8",
       "title": "All 4U approches Kenan",
       "coach": ""
     },
@@ -15,7 +15,7 @@
       "start": "11:00",
       "end": "12:00",
       "status": "ok",
-      "participants": "4/6",
+      "participants": "3/6",
       "title": "Parcours 1h",
       "coach": "Kenan D"
     },
@@ -24,7 +24,7 @@
       "start": "14:00",
       "end": "15:00",
       "status": "ok",
-      "participants": "4/8",
+      "participants": "3/8",
       "title": "All 4U Putting",
       "coach": "Kenan D"
     },
@@ -123,7 +123,7 @@
       "start": "12:00",
       "end": "13:00",
       "status": "booked",
-      "participants": "5/8",
+      "participants": "7/8",
       "title": "All 4U Swing-fers",
       "coach": "Guillaume P"
     },
@@ -195,7 +195,7 @@
       "start": "13:00",
       "end": "14:00",
       "status": "ok",
-      "participants": "6/8",
+      "participants": "5/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
@@ -222,7 +222,7 @@
       "start": "17:00",
       "end": "18:00",
       "status": "ok",
-      "participants": "4/8",
+      "participants": "3/8",
       "title": "All 4U Mise en jeu",
       "coach": "Kenan D"
     },
@@ -230,8 +230,8 @@
       "iso": "2026-05-19",
       "start": "18:00",
       "end": "19:00",
-      "status": "almost",
-      "participants": "5/6",
+      "status": "ok",
+      "participants": "4/6",
       "title": "Parcours 1h",
       "coach": "Kenan D"
     },
@@ -383,8 +383,8 @@
       "iso": "2026-05-25",
       "start": "13:00",
       "end": "14:00",
-      "status": "ok",
-      "participants": "4/6",
+      "status": "almost",
+      "participants": "5/6",
       "title": "Parcours 1h",
       "coach": "Kenan D"
     },
@@ -393,7 +393,7 @@
       "start": "14:00",
       "end": "15:00",
       "status": "ok",
-      "participants": "1/8",
+      "participants": "2/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
@@ -410,8 +410,8 @@
       "iso": "2026-05-25",
       "start": "17:00",
       "end": "18:00",
-      "status": "full",
-      "participants": "8/8",
+      "status": "almost",
+      "participants": "7/8",
       "title": "All 4U Mise en jeu",
       "coach": "Kenan D"
     },
@@ -429,7 +429,7 @@
       "start": "13:00",
       "end": "14:00",
       "status": "ok",
-      "participants": "5/8",
+      "participants": "4/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
