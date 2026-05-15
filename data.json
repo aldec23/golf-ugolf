@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T16:57:11.231Z",
+  "generatedAt": "2026-05-15T20:05:04.941Z",
   "events": [
     {
       "iso": "2026-05-15",
@@ -33,7 +33,7 @@
       "start": "09:00",
       "end": "10:00",
       "status": "ok",
-      "participants": "4/6",
+      "participants": "3/6",
       "title": "PERF putter en mode sniper",
       "coach": "Guillaume P"
     },
@@ -42,7 +42,7 @@
       "start": "12:00",
       "end": "13:00",
       "status": "booked",
-      "participants": "8/8",
+      "participants": "7/8",
       "title": "All 4U Mise en jeu",
       "coach": "Kenan D"
     },
@@ -168,7 +168,7 @@
       "start": "17:00",
       "end": "18:00",
       "status": "ok",
-      "participants": "1/8",
+      "participants": "2/8",
       "title": "Parcours 1h",
       "coach": "Kenan D"
     },
@@ -186,7 +186,7 @@
       "start": "17:00",
       "end": "18:00",
       "status": "ok",
-      "participants": "3/8",
+      "participants": "5/8",
       "title": "All 4U Mise en jeu",
       "coach": "Kenan D"
     },
@@ -204,7 +204,7 @@
       "start": "12:00",
       "end": "13:00",
       "status": "ok",
-      "participants": "3/8",
+      "participants": "4/8",
       "title": "All 4U approches",
       "coach": "Kenan D"
     },
