@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T17:57:10.101Z",
+  "generatedAt": "2026-05-17T19:57:10.169Z",
   "events": [
     {
       "iso": "2026-05-17",
@@ -14,8 +14,8 @@
       "iso": "2026-05-17",
       "start": "14:00",
       "end": "15:00",
-      "status": "almost",
-      "participants": "7/8",
+      "status": "full",
+      "participants": "8/8",
       "title": "All 4U Mise en jeu",
       "coach": "Kenan D"
     },
@@ -32,8 +32,8 @@
       "iso": "2026-05-17",
       "start": "16:00",
       "end": "17:00",
-      "status": "almost",
-      "participants": "7/8",
+      "status": "full",
+      "participants": "8/8",
       "title": "All 4U approche lobée / bunker",
       "coach": "Guillaume P"
     },
@@ -41,8 +41,8 @@
       "iso": "2026-05-17",
       "start": "17:00",
       "end": "18:00",
-      "status": "almost",
-      "participants": "7/8",
+      "status": "full",
+      "participants": "8/8",
       "title": "All 4U Putting",
       "coach": "Kenan D"
     },
@@ -50,8 +50,8 @@
       "iso": "2026-05-17",
       "start": "18:00",
       "end": "19:00",
-      "status": "almost",
-      "participants": "5/6",
+      "status": "ok",
+      "participants": "3/6",
       "title": "PERF putter en mode sniper",
       "coach": "Kenan D"
     },
@@ -123,7 +123,7 @@
       "start": "17:00",
       "end": "18:00",
       "status": "ok",
-      "participants": "1/6",
+      "participants": "2/6",
       "title": "PERF record du monde de Drive",
       "coach": "Kenan D"
     },
@@ -411,7 +411,7 @@
       "start": "13:00",
       "end": "14:00",
       "status": "ok",
-      "participants": "1/6",
+      "participants": "2/6",
       "title": "PERF anti slice / anti hook",
       "coach": "Kenan D"
     },
