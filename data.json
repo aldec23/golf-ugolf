@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-18T08:05:47.008Z",
+  "generatedAt": "2026-05-18T08:57:09.541Z",
   "events": [
     {
       "iso": "2026-05-18",
       "start": "10:00",
       "end": "11:00",
       "status": "ok",
-      "participants": "3/6",
+      "participants": "4/6",
       "title": "PERF record du monde de Drive",
       "coach": "Guillaume P"
     },
@@ -24,7 +24,7 @@
       "start": "17:00",
       "end": "18:00",
       "status": "ok",
-      "participants": "2/8",
+      "participants": "3/8",
       "title": "Parcours 1h",
       "coach": "Kenan D"
     },
