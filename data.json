@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T09:57:08.447Z",
+  "generatedAt": "2026-05-22T10:57:08.653Z",
   "events": [
     {
       "iso": "2026-05-22",
@@ -23,8 +23,8 @@
       "iso": "2026-05-23",
       "start": "12:00",
       "end": "13:00",
-      "status": "full",
-      "participants": "8/8",
+      "status": "almost",
+      "participants": "7/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
@@ -32,8 +32,8 @@
       "iso": "2026-05-23",
       "start": "14:00",
       "end": "15:00",
-      "status": "full",
-      "participants": "8/8",
+      "status": "almost",
+      "participants": "7/8",
       "title": "All 4U approches",
       "coach": "Kenan D"
     },
@@ -267,7 +267,7 @@
       "start": "17:00",
       "end": "18:00",
       "status": "ok",
-      "participants": "2/6",
+      "participants": "3/6",
       "title": "PERF anti slice / anti hook",
       "coach": "Kenan D"
     },
