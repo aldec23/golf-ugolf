@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T17:57:08.807Z",
+  "generatedAt": "2026-05-23T19:28:16.310Z",
   "events": [
     {
       "iso": "2026-05-23",
@@ -51,7 +51,7 @@
       "start": "18:00",
       "end": "19:00",
       "status": "booked",
-      "participants": "5/6",
+      "participants": "6/6",
       "title": "Parcours 1h",
       "coach": "Kenan D"
     },
@@ -60,7 +60,7 @@
       "start": "12:00",
       "end": "13:00",
       "status": "ok",
-      "participants": "1/8",
+      "participants": "0/8",
       "title": "All 4U approche lobée / bunker",
       "coach": "Guillaume P"
     },
@@ -276,7 +276,7 @@
       "start": "18:00",
       "end": "19:00",
       "status": "ok",
-      "participants": "5/8",
+      "participants": "6/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
@@ -366,7 +366,7 @@
       "start": "17:00",
       "end": "18:00",
       "status": "ok",
-      "participants": "0/6",
+      "participants": "1/6",
       "title": "PERF anti slice / anti hook",
       "coach": "Kenan D"
     },
