@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T17:57:10.982Z",
+  "generatedAt": "2026-05-27T18:57:08.900Z",
   "events": [
     {
       "iso": "2026-05-29",
@@ -69,7 +69,7 @@
       "start": "13:00",
       "end": "14:00",
       "status": "ok",
-      "participants": "2/6",
+      "participants": "3/6",
       "title": "Parcours 1h",
       "coach": "Kenan D"
     },
@@ -104,8 +104,8 @@
       "iso": "2026-06-02",
       "start": "16:00",
       "end": "17:00",
-      "status": "almost",
-      "participants": "7/8",
+      "status": "full",
+      "participants": "8/8",
       "title": "All 4U approches",
       "coach": "Kenan D"
     },
@@ -141,7 +141,7 @@
       "start": "17:00",
       "end": "18:00",
       "status": "ok",
-      "participants": "4/8",
+      "participants": "6/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
@@ -267,7 +267,7 @@
       "start": "18:00",
       "end": "19:00",
       "status": "ok",
-      "participants": "0/8",
+      "participants": "1/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
@@ -294,7 +294,7 @@
       "start": "18:00",
       "end": "19:00",
       "status": "ok",
-      "participants": "2/8",
+      "participants": "3/8",
       "title": "All 4U Mise en jeu",
       "coach": "Kenan D"
     },
@@ -311,8 +311,8 @@
       "iso": "2026-06-10",
       "start": "17:00",
       "end": "18:00",
-      "status": "ok",
-      "participants": "6/8",
+      "status": "almost",
+      "participants": "7/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
@@ -393,7 +393,7 @@
       "start": "18:00",
       "end": "19:00",
       "status": "ok",
-      "participants": "4/8",
+      "participants": "5/8",
       "title": "All 4U Mise en jeu",
       "coach": "Kenan D"
     },
@@ -402,7 +402,7 @@
       "start": "13:00",
       "end": "14:00",
       "status": "ok",
-      "participants": "1/8",
+      "participants": "2/8",
       "title": "All 4U approches Kenan",
       "coach": ""
     },
@@ -420,7 +420,7 @@
       "start": "12:00",
       "end": "13:00",
       "status": "ok",
-      "participants": "0/8",
+      "participants": "1/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
