@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T17:57:08.862Z",
+  "generatedAt": "2026-05-31T18:57:09.006Z",
   "events": [
     {
       "iso": "2026-05-31",
@@ -41,8 +41,8 @@
       "iso": "2026-06-01",
       "start": "13:00",
       "end": "14:00",
-      "status": "full",
-      "participants": "6/6",
+      "status": "almost",
+      "participants": "5/6",
       "title": "Parcours 1h",
       "coach": "Kenan D"
     },
@@ -302,8 +302,8 @@
       "iso": "2026-06-13",
       "start": "12:00",
       "end": "13:00",
-      "status": "ok",
-      "participants": "6/8",
+      "status": "full",
+      "participants": "8/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
