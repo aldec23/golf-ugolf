@@ -1,33 +1,6 @@
 {
-  "generatedAt": "2026-05-31T21:57:08.886Z",
+  "generatedAt": "2026-05-31T22:57:51.840Z",
   "events": [
-    {
-      "iso": "2026-05-31",
-      "start": "09:00",
-      "end": "10:00",
-      "status": "ok",
-      "participants": "4/8",
-      "title": "All 4U Swing-fers",
-      "coach": "Guillaume P"
-    },
-    {
-      "iso": "2026-05-31",
-      "start": "14:00",
-      "end": "15:00",
-      "status": "ok",
-      "participants": "4/6",
-      "title": "PERF parcours du combattant",
-      "coach": "Guillaume P"
-    },
-    {
-      "iso": "2026-05-31",
-      "start": "16:00",
-      "end": "17:00",
-      "status": "ok",
-      "participants": "4/8",
-      "title": "All 4U approche lobée / bunker",
-      "coach": "Guillaume P"
-    },
     {
       "iso": "2026-06-01",
       "start": "10:00",
@@ -449,6 +422,33 @@
       "status": "ok",
       "participants": "0/8",
       "title": "All 4U Swing-fers",
+      "coach": "Kenan D"
+    },
+    {
+      "iso": "2026-06-22",
+      "start": "10:00",
+      "end": "11:00",
+      "status": "ok",
+      "participants": "3/6",
+      "title": "PERF parcours du combattant",
+      "coach": "Guillaume P"
+    },
+    {
+      "iso": "2026-06-22",
+      "start": "13:00",
+      "end": "14:00",
+      "status": "ok",
+      "participants": "3/6",
+      "title": "Parcours 1h",
+      "coach": "Kenan D"
+    },
+    {
+      "iso": "2026-06-22",
+      "start": "18:00",
+      "end": "19:00",
+      "status": "ok",
+      "participants": "0/8",
+      "title": "All 4U approche lobée / bunker",
       "coach": "Kenan D"
     }
   ],
