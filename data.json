@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T22:57:51.840Z",
+  "generatedAt": "2026-06-01T09:04:57.870Z",
   "events": [
     {
       "iso": "2026-06-01",
@@ -14,8 +14,8 @@
       "iso": "2026-06-01",
       "start": "13:00",
       "end": "14:00",
-      "status": "almost",
-      "participants": "5/6",
+      "status": "ok",
+      "participants": "4/6",
       "title": "Parcours 1h",
       "coach": "Kenan D"
     },
