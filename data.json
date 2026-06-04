@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-04T19:57:10.349Z",
+  "generatedAt": "2026-06-04T20:57:08.405Z",
   "events": [
     {
       "iso": "2026-06-05",
       "start": "18:00",
       "end": "19:00",
       "status": "ok",
-      "participants": "1/8",
+      "participants": "2/8",
       "title": "All 4U Swing-fers",
       "coach": "Guillaume P"
     },
@@ -68,8 +68,8 @@
       "iso": "2026-06-07",
       "start": "12:00",
       "end": "13:00",
-      "status": "almost",
-      "participants": "7/8",
+      "status": "full",
+      "participants": "8/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
@@ -87,7 +87,7 @@
       "start": "14:00",
       "end": "15:00",
       "status": "ok",
-      "participants": "1/8",
+      "participants": "2/8",
       "title": "All 4U Mise en jeu",
       "coach": "Guillaume P"
     },
