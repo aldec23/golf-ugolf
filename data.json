@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-05T07:57:11.324Z",
+  "generatedAt": "2026-06-05T14:48:01.906Z",
   "events": [
     {
       "iso": "2026-06-05",
       "start": "18:00",
       "end": "19:00",
       "status": "ok",
-      "participants": "2/8",
+      "participants": "3/8",
       "title": "All 4U Swing-fers",
       "coach": "Guillaume P"
     },
@@ -51,7 +51,7 @@
       "start": "17:00",
       "end": "18:00",
       "status": "ok",
-      "participants": "3/6",
+      "participants": "4/6",
       "title": "PERF anti slice / anti hook",
       "coach": "Kenan D"
     },
