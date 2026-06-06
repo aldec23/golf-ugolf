@@ -1,21 +1,12 @@
 {
-  "generatedAt": "2026-06-05T16:57:05.684Z",
+  "generatedAt": "2026-06-06T12:57:11.472Z",
   "events": [
-    {
-      "iso": "2026-06-05",
-      "start": "18:00",
-      "end": "19:00",
-      "status": "ok",
-      "participants": "3/8",
-      "title": "All 4U Swing-fers",
-      "coach": "Guillaume P"
-    },
     {
       "iso": "2026-06-06",
       "start": "09:00",
       "end": "10:00",
-      "status": "full",
-      "participants": "6/6",
+      "status": "ok",
+      "participants": "4/6",
       "title": "PERF anti slice / anti hook",
       "coach": "Guillaume P"
     },
@@ -32,8 +23,8 @@
       "iso": "2026-06-06",
       "start": "14:00",
       "end": "15:00",
-      "status": "full",
-      "participants": "9/9",
+      "status": "ok",
+      "participants": "7/9",
       "title": "All 4U Putting",
       "coach": "Kenan D"
     },
@@ -42,7 +33,7 @@
       "start": "15:00",
       "end": "16:00",
       "status": "booked",
-      "participants": "8/8",
+      "participants": "6/8",
       "title": "Parcours 1h",
       "coach": "Guillaume P"
     },
@@ -50,8 +41,8 @@
       "iso": "2026-06-06",
       "start": "17:00",
       "end": "18:00",
-      "status": "ok",
-      "participants": "4/6",
+      "status": "full",
+      "participants": "6/6",
       "title": "PERF anti slice / anti hook",
       "coach": "Kenan D"
     },
@@ -59,8 +50,8 @@
       "iso": "2026-06-06",
       "start": "18:00",
       "end": "19:00",
-      "status": "full",
-      "participants": "6/6",
+      "status": "ok",
+      "participants": "4/6",
       "title": "Parcours 1h",
       "coach": "Kenan D"
     },
@@ -95,8 +86,8 @@
       "iso": "2026-06-07",
       "start": "15:00",
       "end": "17:00",
-      "status": "almost",
-      "participants": "10/12",
+      "status": "full",
+      "participants": "12/12",
       "title": "Compétition encadrée (réservée aux index supérieurs à 27)",
       "coach": ""
     },
@@ -105,7 +96,7 @@
       "start": "17:00",
       "end": "18:00",
       "status": "ok",
-      "participants": "3/6",
+      "participants": "4/6",
       "title": "PERF anti slice / anti hook",
       "coach": "Kenan D"
     },
@@ -123,7 +114,7 @@
       "start": "10:00",
       "end": "11:00",
       "status": "ok",
-      "participants": "2/6",
+      "participants": "3/6",
       "title": "PERF putter en mode sniper",
       "coach": "Guillaume P"
     },
@@ -221,8 +212,8 @@
       "iso": "2026-06-13",
       "start": "14:00",
       "end": "15:00",
-      "status": "ok",
-      "participants": "6/8",
+      "status": "almost",
+      "participants": "7/8",
       "title": "All 4U approche lobée / bunker",
       "coach": "Kenan D"
     },
@@ -240,7 +231,7 @@
       "start": "12:00",
       "end": "13:00",
       "status": "ok",
-      "participants": "2/6",
+      "participants": "3/6",
       "title": "Parcours 1h",
       "coach": "Guillaume P"
     },
@@ -248,8 +239,8 @@
       "iso": "2026-06-14",
       "start": "15:00",
       "end": "16:00",
-      "status": "ok",
-      "participants": "6/8",
+      "status": "almost",
+      "participants": "7/8",
       "title": "All 4U Putting",
       "coach": "Guillaume P"
     },
@@ -393,7 +384,7 @@
       "start": "12:00",
       "end": "13:00",
       "status": "ok",
-      "participants": "0/6",
+      "participants": "1/6",
       "title": "Parcours 1h",
       "coach": "Kenan D"
     },
@@ -449,6 +440,15 @@
       "status": "almost",
       "participants": "5/6",
       "title": "Parcours 1h",
+      "coach": "Kenan D"
+    },
+    {
+      "iso": "2026-06-22",
+      "start": "18:00",
+      "end": "19:00",
+      "status": "ok",
+      "participants": "0/8",
+      "title": "All 4U approche lobée / bunker",
       "coach": "Kenan D"
     }
   ],
