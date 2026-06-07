@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T01:57:09.871Z",
+  "generatedAt": "2026-06-07T03:01:58.086Z",
   "events": [
     {
       "iso": "2026-06-07",
@@ -195,7 +195,7 @@
       "start": "17:00",
       "end": "18:00",
       "status": "ok",
-      "participants": "0/8",
+      "participants": "1/8",
       "title": "All 4U Swing-fers",
       "coach": "Guillaume P"
     },
