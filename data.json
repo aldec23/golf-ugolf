@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T13:57:09.403Z",
+  "generatedAt": "2026-06-08T21:49:43.937Z",
   "events": [
     {
       "iso": "2026-06-08",
@@ -32,8 +32,8 @@
       "iso": "2026-06-08",
       "start": "18:00",
       "end": "19:00",
-      "status": "almost",
-      "participants": "7/8",
+      "status": "ok",
+      "participants": "6/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
@@ -50,8 +50,8 @@
       "iso": "2026-06-09",
       "start": "17:00",
       "end": "18:00",
-      "status": "full",
-      "participants": "8/8",
+      "status": "almost",
+      "participants": "7/8",
       "title": "All 4U Putting",
       "coach": "Kenan D"
     },
@@ -59,8 +59,8 @@
       "iso": "2026-06-09",
       "start": "18:00",
       "end": "19:00",
-      "status": "full",
-      "participants": "8/8",
+      "status": "almost",
+      "participants": "7/8",
       "title": "All 4U Mise en jeu",
       "coach": "Kenan D"
     },
@@ -141,7 +141,7 @@
       "start": "17:00",
       "end": "18:00",
       "status": "ok",
-      "participants": "1/8",
+      "participants": "2/8",
       "title": "All 4U Swing-fers",
       "coach": "Guillaume P"
     },
@@ -207,6 +207,15 @@
       "participants": "1/6",
       "title": "PERF trick shot aux approches",
       "coach": "Kenan D"
+    },
+    {
+      "iso": "2026-06-19",
+      "start": "18:00",
+      "end": "19:00",
+      "status": "ok",
+      "participants": "1/8",
+      "title": "All 4U Swing-fers",
+      "coach": "Guillaume P"
     },
     {
       "iso": "2026-06-20",
@@ -321,7 +330,7 @@
       "start": "10:00",
       "end": "11:00",
       "status": "ok",
-      "participants": "3/6",
+      "participants": "4/6",
       "title": "PERF parcours du combattant",
       "coach": "Guillaume P"
     },
@@ -432,15 +441,6 @@
       "participants": "1/8",
       "title": "All 4U Putting",
       "coach": "Kenan D"
-    },
-    {
-      "iso": "2026-06-28",
-      "start": "09:00",
-      "end": "10:00",
-      "status": "ok",
-      "participants": "0/6",
-      "title": "PERF parcours du combattant",
-      "coach": "Guillaume P"
     },
     {
       "iso": "2026-06-28",
