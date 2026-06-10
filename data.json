@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T23:58:31.357Z",
+  "generatedAt": "2026-06-10T17:50:50.428Z",
   "events": [
     {
       "iso": "2026-06-10",
@@ -32,8 +32,8 @@
       "iso": "2026-06-13",
       "start": "12:00",
       "end": "13:00",
-      "status": "almost",
-      "participants": "7/8",
+      "status": "full",
+      "participants": "8/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
@@ -167,8 +167,8 @@
       "iso": "2026-06-20",
       "start": "12:00",
       "end": "13:00",
-      "status": "almost",
-      "participants": "7/8",
+      "status": "full",
+      "participants": "8/8",
       "title": "All 4U Putting",
       "coach": "Kenan D"
     },
@@ -195,7 +195,7 @@
       "start": "18:00",
       "end": "19:00",
       "status": "ok",
-      "participants": "5/8",
+      "participants": "6/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
@@ -231,7 +231,7 @@
       "start": "14:00",
       "end": "15:00",
       "status": "ok",
-      "participants": "0/8",
+      "participants": "1/8",
       "title": "All 4U Putting",
       "coach": "Kenan D"
     },
