@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T17:57:06.804Z",
+  "generatedAt": "2026-06-10T18:57:21.319Z",
   "events": [
     {
       "iso": "2026-06-10",
@@ -41,8 +41,8 @@
       "iso": "2026-06-13",
       "start": "14:00",
       "end": "15:00",
-      "status": "full",
-      "participants": "8/8",
+      "status": "almost",
+      "participants": "7/8",
       "title": "All 4U approche lobée / bunker",
       "coach": "Kenan D"
     },
@@ -68,8 +68,8 @@
       "iso": "2026-06-14",
       "start": "15:00",
       "end": "16:00",
-      "status": "almost",
-      "participants": "7/8",
+      "status": "ok",
+      "participants": "6/8",
       "title": "All 4U Putting",
       "coach": "Guillaume P"
     },
@@ -194,8 +194,8 @@
       "iso": "2026-06-20",
       "start": "18:00",
       "end": "19:00",
-      "status": "ok",
-      "participants": "6/8",
+      "status": "almost",
+      "participants": "7/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
@@ -222,7 +222,7 @@
       "start": "12:00",
       "end": "13:00",
       "status": "ok",
-      "participants": "1/6",
+      "participants": "2/6",
       "title": "Parcours 1h",
       "coach": "Kenan D"
     },
@@ -357,7 +357,7 @@
       "start": "17:00",
       "end": "18:00",
       "status": "ok",
-      "participants": "3/8",
+      "participants": "4/8",
       "title": "All 4U Mise en jeu",
       "coach": "Kenan D"
     },
