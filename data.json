@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T08:57:11.487Z",
+  "generatedAt": "2026-06-12T12:57:08.598Z",
   "events": [
     {
       "iso": "2026-06-13",
@@ -68,8 +68,8 @@
       "iso": "2026-06-15",
       "start": "13:00",
       "end": "14:00",
-      "status": "full",
-      "participants": "6/6",
+      "status": "almost",
+      "participants": "5/6",
       "title": "PERF record du monde de Drive",
       "coach": "Kenan D"
     },
