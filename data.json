@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-12T13:57:07.710Z",
+  "generatedAt": "2026-06-12T20:52:37.203Z",
   "events": [
     {
       "iso": "2026-06-13",
       "start": "09:00",
       "end": "10:00",
-      "status": "almost",
-      "participants": "5/6",
+      "status": "ok",
+      "participants": "4/6",
       "title": "PERF putter en mode sniper",
       "coach": "Guillaume P"
     },
@@ -23,8 +23,8 @@
       "iso": "2026-06-13",
       "start": "14:00",
       "end": "15:00",
-      "status": "full",
-      "participants": "8/8",
+      "status": "almost",
+      "participants": "7/8",
       "title": "All 4U approche lobée / bunker",
       "coach": "Kenan D"
     },
@@ -32,8 +32,8 @@
       "iso": "2026-06-13",
       "start": "14:00",
       "end": "15:00",
-      "status": "full",
-      "participants": "8/8",
+      "status": "almost",
+      "participants": "7/8",
       "title": "All 4U Mise en jeu",
       "coach": "Guillaume P"
     },
@@ -68,8 +68,8 @@
       "iso": "2026-06-15",
       "start": "13:00",
       "end": "14:00",
-      "status": "almost",
-      "participants": "5/6",
+      "status": "full",
+      "participants": "6/6",
       "title": "PERF record du monde de Drive",
       "coach": "Kenan D"
     },
@@ -114,7 +114,7 @@
       "start": "18:00",
       "end": "19:00",
       "status": "ok",
-      "participants": "0/8",
+      "participants": "1/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
@@ -135,15 +135,6 @@
       "participants": "4/6",
       "title": "PERF trick shot aux approches",
       "coach": "Kenan D"
-    },
-    {
-      "iso": "2026-06-19",
-      "start": "18:00",
-      "end": "19:00",
-      "status": "ok",
-      "participants": "2/8",
-      "title": "All 4U Swing-fers",
-      "coach": "Guillaume P"
     },
     {
       "iso": "2026-06-20",
@@ -183,6 +174,15 @@
     },
     {
       "iso": "2026-06-20",
+      "start": "15:00",
+      "end": "16:00",
+      "status": "ok",
+      "participants": "0/8",
+      "title": "All 4U approches",
+      "coach": "Kenan D"
+    },
+    {
+      "iso": "2026-06-20",
       "start": "18:00",
       "end": "19:00",
       "status": "almost",
@@ -195,7 +195,7 @@
       "start": "09:00",
       "end": "10:00",
       "status": "ok",
-      "participants": "0/6",
+      "participants": "1/6",
       "title": "PERF record du monde de Drive",
       "coach": "Guillaume P"
     },
@@ -212,8 +212,8 @@
       "iso": "2026-06-21",
       "start": "12:00",
       "end": "13:00",
-      "status": "ok",
-      "participants": "3/6",
+      "status": "booked",
+      "participants": "4/6",
       "title": "Parcours 1h",
       "coach": "Kenan D"
     },
@@ -222,7 +222,7 @@
       "start": "14:00",
       "end": "15:00",
       "status": "ok",
-      "participants": "1/8",
+      "participants": "3/8",
       "title": "All 4U Putting",
       "coach": "Kenan D"
     },
@@ -326,6 +326,15 @@
       "coach": "Kenan D"
     },
     {
+      "iso": "2026-06-26",
+      "start": "18:00",
+      "end": "19:00",
+      "status": "ok",
+      "participants": "0/8",
+      "title": "All 4U approches",
+      "coach": "Guillaume P"
+    },
+    {
       "iso": "2026-06-27",
       "start": "09:00",
       "end": "10:00",
@@ -341,6 +350,15 @@
       "status": "ok",
       "participants": "4/8",
       "title": "All 4U Swing-fers",
+      "coach": "Kenan D"
+    },
+    {
+      "iso": "2026-06-27",
+      "start": "15:00",
+      "end": "16:00",
+      "status": "ok",
+      "participants": "0/8",
+      "title": "All 4U approches",
       "coach": "Kenan D"
     },
     {
@@ -429,26 +447,8 @@
       "start": "13:00",
       "end": "14:00",
       "status": "ok",
-      "participants": "3/6",
+      "participants": "4/6",
       "title": "PERF anti slice / anti hook",
-      "coach": "Kenan D"
-    },
-    {
-      "iso": "2026-06-29",
-      "start": "16:00",
-      "end": "17:00",
-      "status": "ok",
-      "participants": "3/8",
-      "title": "All 4U Putting",
-      "coach": "Kenan D"
-    },
-    {
-      "iso": "2026-06-29",
-      "start": "18:00",
-      "end": "19:00",
-      "status": "ok",
-      "participants": "2/8",
-      "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     }
   ],
