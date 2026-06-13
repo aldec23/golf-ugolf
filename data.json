@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T18:01:30.358Z",
+  "generatedAt": "2026-06-13T19:57:09.128Z",
   "events": [
     {
       "iso": "2026-06-13",
@@ -50,15 +50,15 @@
       "iso": "2026-06-14",
       "start": "15:00",
       "end": "16:00",
-      "status": "full",
-      "participants": "8/8",
+      "status": "almost",
+      "participants": "7/8",
       "title": "All 4U Putting",
       "coach": "Guillaume P"
     },
     {
       "iso": "2026-06-14",
-      "start": "18:00",
-      "end": "19:00",
+      "start": "16:00",
+      "end": "17:00",
       "status": "booked",
       "participants": "3/8",
       "title": "All 4U Swing-fers",
@@ -114,7 +114,7 @@
       "start": "18:00",
       "end": "19:00",
       "status": "ok",
-      "participants": "1/8",
+      "participants": "2/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
@@ -185,8 +185,8 @@
       "iso": "2026-06-20",
       "start": "18:00",
       "end": "19:00",
-      "status": "almost",
-      "participants": "7/8",
+      "status": "full",
+      "participants": "8/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
@@ -240,7 +240,7 @@
       "start": "15:00",
       "end": "16:00",
       "status": "ok",
-      "participants": "2/8",
+      "participants": "3/8",
       "title": "All 4U approches",
       "coach": "Guillaume P"
     },
@@ -276,7 +276,7 @@
       "start": "18:00",
       "end": "19:00",
       "status": "ok",
-      "participants": "2/8",
+      "participants": "4/8",
       "title": "All 4U approche lobée / bunker",
       "coach": "Kenan D"
     },
@@ -366,7 +366,7 @@
       "start": "17:00",
       "end": "18:00",
       "status": "ok",
-      "participants": "3/8",
+      "participants": "5/8",
       "title": "All 4U Mise en jeu",
       "coach": "Kenan D"
     },
@@ -375,7 +375,7 @@
       "start": "18:00",
       "end": "19:00",
       "status": "ok",
-      "participants": "2/8",
+      "participants": "4/8",
       "title": "All 4U Putting",
       "coach": "Kenan D"
     },
