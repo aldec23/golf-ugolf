@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T10:57:08.835Z",
+  "generatedAt": "2026-06-14T13:10:33.670Z",
   "events": [
     {
       "iso": "2026-06-14",
@@ -78,7 +78,7 @@
       "start": "18:00",
       "end": "19:00",
       "status": "ok",
-      "participants": "3/8",
+      "participants": "4/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
@@ -123,7 +123,7 @@
       "start": "14:00",
       "end": "15:00",
       "status": "ok",
-      "participants": "3/6",
+      "participants": "4/6",
       "title": "PERF record du monde de Drive",
       "coach": "Kenan D"
     },
@@ -186,7 +186,7 @@
       "start": "14:00",
       "end": "15:00",
       "status": "ok",
-      "participants": "3/8",
+      "participants": "5/8",
       "title": "All 4U Putting",
       "coach": "Kenan D"
     },
@@ -204,7 +204,7 @@
       "start": "15:00",
       "end": "16:00",
       "status": "ok",
-      "participants": "3/8",
+      "participants": "5/8",
       "title": "All 4U approches",
       "coach": "Guillaume P"
     },
