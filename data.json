@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T16:17:09.183Z",
+  "generatedAt": "2026-06-14T16:57:17.108Z",
   "events": [
     {
       "iso": "2026-06-14",
@@ -141,7 +141,7 @@
       "start": "15:00",
       "end": "16:00",
       "status": "ok",
-      "participants": "1/8",
+      "participants": "2/8",
       "title": "All 4U approches",
       "coach": "Kenan D"
     },
