@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T10:21:47.190Z",
+  "generatedAt": "2026-06-15T15:23:32.766Z",
   "events": [
     {
       "iso": "2026-06-15",
@@ -240,7 +240,7 @@
       "start": "18:00",
       "end": "19:00",
       "status": "ok",
-      "participants": "2/6",
+      "participants": "3/6",
       "title": "Parcours 1h",
       "coach": "Kenan D"
     },
@@ -263,15 +263,6 @@
       "coach": "Kenan D"
     },
     {
-      "iso": "2026-06-26",
-      "start": "18:00",
-      "end": "19:00",
-      "status": "ok",
-      "participants": "0/8",
-      "title": "All 4U approches",
-      "coach": "Guillaume P"
-    },
-    {
       "iso": "2026-06-27",
       "start": "09:00",
       "end": "10:00",
@@ -284,8 +275,8 @@
       "iso": "2026-06-27",
       "start": "14:00",
       "end": "15:00",
-      "status": "ok",
-      "participants": "6/8",
+      "status": "almost",
+      "participants": "7/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
@@ -440,6 +431,15 @@
       "status": "ok",
       "participants": "3/8",
       "title": "All 4U Swing-fers",
+      "coach": "Kenan D"
+    },
+    {
+      "iso": "2026-07-02",
+      "start": "12:00",
+      "end": "13:00",
+      "status": "ok",
+      "participants": "0/6",
+      "title": "PERF Direction/Précision",
       "coach": "Kenan D"
     },
     {
