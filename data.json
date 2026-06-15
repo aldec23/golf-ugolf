@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T15:57:08.005Z",
+  "generatedAt": "2026-06-15T16:57:08.578Z",
   "events": [
     {
       "iso": "2026-06-15",
@@ -122,8 +122,8 @@
       "iso": "2026-06-20",
       "start": "18:00",
       "end": "19:00",
-      "status": "almost",
-      "participants": "7/8",
+      "status": "full",
+      "participants": "8/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
