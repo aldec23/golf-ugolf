@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T22:57:09.978Z",
+  "generatedAt": "2026-06-15T10:21:47.190Z",
   "events": [
     {
       "iso": "2026-06-15",
@@ -51,7 +51,7 @@
       "start": "18:00",
       "end": "19:00",
       "status": "ok",
-      "participants": "4/8",
+      "participants": "5/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
@@ -78,7 +78,7 @@
       "start": "09:00",
       "end": "10:00",
       "status": "ok",
-      "participants": "3/6",
+      "participants": "4/6",
       "title": "PERF record du monde de Drive",
       "coach": "Guillaume P"
     },
@@ -114,7 +114,7 @@
       "start": "15:00",
       "end": "16:00",
       "status": "ok",
-      "participants": "3/8",
+      "participants": "2/8",
       "title": "All 4U approches",
       "coach": "Kenan D"
     },
@@ -122,8 +122,8 @@
       "iso": "2026-06-20",
       "start": "18:00",
       "end": "19:00",
-      "status": "full",
-      "participants": "8/8",
+      "status": "almost",
+      "participants": "7/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
@@ -366,7 +366,7 @@
       "start": "17:00",
       "end": "18:00",
       "status": "ok",
-      "participants": "1/8",
+      "participants": "2/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
@@ -375,7 +375,7 @@
       "start": "18:00",
       "end": "19:00",
       "status": "ok",
-      "participants": "0/6",
+      "participants": "1/6",
       "title": "PERF parcours du combattant",
       "coach": "Kenan D"
     },
