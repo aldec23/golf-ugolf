@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T09:57:08.705Z",
+  "generatedAt": "2026-06-16T10:57:09.022Z",
   "events": [
     {
       "iso": "2026-06-16",
@@ -95,8 +95,8 @@
       "iso": "2026-06-20",
       "start": "18:00",
       "end": "19:00",
-      "status": "full",
-      "participants": "8/8",
+      "status": "almost",
+      "participants": "7/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
@@ -186,7 +186,7 @@
       "start": "18:00",
       "end": "19:00",
       "status": "ok",
-      "participants": "5/8",
+      "participants": "6/8",
       "title": "All 4U approche lobée / bunker",
       "coach": "Kenan D"
     },
@@ -375,7 +375,7 @@
       "start": "18:00",
       "end": "19:00",
       "status": "ok",
-      "participants": "4/8",
+      "participants": "5/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
@@ -411,7 +411,7 @@
       "start": "11:00",
       "end": "12:00",
       "status": "ok",
-      "participants": "2/8",
+      "participants": "3/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
