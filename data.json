@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T19:57:08.757Z",
+  "generatedAt": "2026-06-16T20:57:22.209Z",
   "events": [
     {
       "iso": "2026-06-16",
@@ -158,8 +158,8 @@
       "iso": "2026-06-22",
       "start": "10:00",
       "end": "11:00",
-      "status": "ok",
-      "participants": "4/6",
+      "status": "almost",
+      "participants": "5/6",
       "title": "PERF parcours du combattant",
       "coach": "Guillaume P"
     },
