@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T15:57:08.875Z",
+  "generatedAt": "2026-06-19T16:57:08.193Z",
   "events": [
     {
       "iso": "2026-06-20",
@@ -24,7 +24,7 @@
       "start": "14:00",
       "end": "15:00",
       "status": "booked",
-      "participants": "8/8",
+      "participants": "7/8",
       "title": "All 4U mise en jeu",
       "coach": "Guillaume P"
     },
@@ -32,8 +32,8 @@
       "iso": "2026-06-20",
       "start": "15:00",
       "end": "16:00",
-      "status": "ok",
-      "participants": "3/8",
+      "status": "booked",
+      "participants": "4/8",
       "title": "All 4U approches",
       "coach": "Kenan D"
     },
