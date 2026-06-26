@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T09:57:10.202Z",
+  "generatedAt": "2026-06-26T11:57:09.821Z",
   "events": [
     {
       "iso": "2026-06-26",
@@ -246,6 +246,15 @@
     },
     {
       "iso": "2026-07-04",
+      "start": "15:00",
+      "end": "16:00",
+      "status": "ok",
+      "participants": "0/8",
+      "title": "All 4U approche lobée / bunker",
+      "coach": "Guillaume P"
+    },
+    {
+      "iso": "2026-07-04",
       "start": "16:00",
       "end": "17:00",
       "status": "full",
@@ -440,15 +449,6 @@
       "status": "ok",
       "participants": "2/8",
       "title": "All 4U Mise en jeu",
-      "coach": "Guillaume P"
-    },
-    {
-      "iso": "2026-07-11",
-      "start": "09:00",
-      "end": "10:00",
-      "status": "ok",
-      "participants": "3/6",
-      "title": "PERF trick shot aux approches",
       "coach": "Guillaume P"
     }
   ],
