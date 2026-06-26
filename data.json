@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T11:57:09.821Z",
+  "generatedAt": "2026-06-26T12:57:11.901Z",
   "events": [
     {
       "iso": "2026-06-26",
@@ -60,7 +60,7 @@
       "start": "12:00",
       "end": "13:00",
       "status": "booked",
-      "participants": "2/6",
+      "participants": "3/6",
       "title": "Parcours 1h",
       "coach": "Kenan D"
     },
@@ -78,7 +78,7 @@
       "start": "14:00",
       "end": "15:00",
       "status": "ok",
-      "participants": "1/8",
+      "participants": "2/8",
       "title": "All 4U Putting",
       "coach": "Kenan D"
     },
