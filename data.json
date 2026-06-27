@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T09:57:13.050Z",
+  "generatedAt": "2026-06-27T10:57:15.381Z",
   "events": [
     {
       "iso": "2026-06-27",
@@ -14,8 +14,8 @@
       "iso": "2026-06-27",
       "start": "14:00",
       "end": "15:00",
-      "status": "booked",
-      "participants": "8/8",
+      "status": "ok",
+      "participants": "6/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
@@ -32,8 +32,8 @@
       "iso": "2026-06-27",
       "start": "18:00",
       "end": "19:00",
-      "status": "full",
-      "participants": "8/8",
+      "status": "almost",
+      "participants": "7/8",
       "title": "All 4U Putting",
       "coach": "Kenan D"
     },
