@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T19:57:11.552Z",
+  "generatedAt": "2026-06-27T20:57:12.708Z",
   "events": [
     {
       "iso": "2026-06-27",
@@ -438,7 +438,7 @@
       "start": "17:00",
       "end": "18:00",
       "status": "ok",
-      "participants": "0/8",
+      "participants": "1/8",
       "title": "Parcours 1h",
       "coach": "Guillaume P"
     },
