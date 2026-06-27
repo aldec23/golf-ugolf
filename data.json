@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-27T01:57:11.056Z",
+  "generatedAt": "2026-06-27T03:57:12.277Z",
   "events": [
     {
       "iso": "2026-06-27",
       "start": "09:00",
       "end": "10:00",
-      "status": "full",
-      "participants": "6/6",
+      "status": "ok",
+      "participants": "4/6",
       "title": "PERF parcours du combattant",
       "coach": "Guillaume P"
     },
@@ -186,7 +186,7 @@
       "start": "14:30",
       "end": "15:30",
       "status": "ok",
-      "participants": "2/6",
+      "participants": "3/6",
       "title": "Parcours 1h",
       "coach": "Kenan D"
     },
