@@ -1,42 +1,6 @@
 {
-  "generatedAt": "2026-06-27T21:57:14.046Z",
+  "generatedAt": "2026-06-27T22:57:16.823Z",
   "events": [
-    {
-      "iso": "2026-06-27",
-      "start": "09:00",
-      "end": "10:00",
-      "status": "ok",
-      "participants": "4/6",
-      "title": "PERF parcours du combattant",
-      "coach": "Guillaume P"
-    },
-    {
-      "iso": "2026-06-27",
-      "start": "14:00",
-      "end": "15:00",
-      "status": "ok",
-      "participants": "6/8",
-      "title": "All 4U Swing-fers",
-      "coach": "Kenan D"
-    },
-    {
-      "iso": "2026-06-27",
-      "start": "17:00",
-      "end": "18:00",
-      "status": "full",
-      "participants": "8/8",
-      "title": "All 4U Mise en jeu",
-      "coach": "Kenan D"
-    },
-    {
-      "iso": "2026-06-27",
-      "start": "18:00",
-      "end": "19:00",
-      "status": "almost",
-      "participants": "7/8",
-      "title": "All 4U Putting",
-      "coach": "Kenan D"
-    },
     {
       "iso": "2026-06-28",
       "start": "09:00",
@@ -450,6 +414,42 @@
       "participants": "2/8",
       "title": "All 4U Mise en jeu",
       "coach": "Guillaume P"
+    },
+    {
+      "iso": "2026-07-11",
+      "start": "09:00",
+      "end": "10:00",
+      "status": "ok",
+      "participants": "3/6",
+      "title": "PERF trick shot aux approches",
+      "coach": "Guillaume P"
+    },
+    {
+      "iso": "2026-07-11",
+      "start": "10:00",
+      "end": "11:00",
+      "status": "ok",
+      "participants": "0/8",
+      "title": "All 4U Putting",
+      "coach": "Kenan D"
+    },
+    {
+      "iso": "2026-07-11",
+      "start": "11:00",
+      "end": "12:00",
+      "status": "ok",
+      "participants": "1/8",
+      "title": "All 4U Swing-fers",
+      "coach": "Kenan D"
+    },
+    {
+      "iso": "2026-07-11",
+      "start": "17:00",
+      "end": "18:00",
+      "status": "ok",
+      "participants": "0/6",
+      "title": "PERF trick shot aux approches",
+      "coach": "Kenan D"
     }
   ],
   "source": "nexxchange.com",
