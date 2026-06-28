@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T12:01:48.642Z",
+  "generatedAt": "2026-06-28T20:57:10.246Z",
   "events": [
     {
       "iso": "2026-06-28",
@@ -33,7 +33,7 @@
       "start": "14:00",
       "end": "15:00",
       "status": "ok",
-      "participants": "2/8",
+      "participants": "1/8",
       "title": "All 4U Putting",
       "coach": "Kenan D"
     },
@@ -69,7 +69,7 @@
       "start": "10:00",
       "end": "11:00",
       "status": "ok",
-      "participants": "3/6",
+      "participants": "4/6",
       "title": "PERF anti slice / anti hook",
       "coach": "Guillaume P"
     },
@@ -167,8 +167,8 @@
       "iso": "2026-07-04",
       "start": "09:00",
       "end": "10:00",
-      "status": "ok",
-      "participants": "4/6",
+      "status": "almost",
+      "participants": "5/6",
       "title": "PERF anti slice / anti hook",
       "coach": "Guillaume P"
     },
@@ -195,7 +195,7 @@
       "start": "12:00",
       "end": "13:00",
       "status": "booked",
-      "participants": "5/8",
+      "participants": "4/8",
       "title": "All 4U Mise en jeu",
       "coach": "Guillaume P"
     },
@@ -231,7 +231,7 @@
       "start": "10:00",
       "end": "11:00",
       "status": "ok",
-      "participants": "2/8",
+      "participants": "3/8",
       "title": "All 4U Mise en jeu",
       "coach": "Guillaume P"
     },
@@ -258,7 +258,7 @@
       "start": "16:00",
       "end": "17:00",
       "status": "ok",
-      "participants": "2/8",
+      "participants": "3/8",
       "title": "All 4U Swing-fers",
       "coach": "Guillaume P"
     },
@@ -303,7 +303,7 @@
       "start": "18:00",
       "end": "18:00",
       "status": "ok",
-      "participants": "3/8",
+      "participants": "4/8",
       "title": "All 4U Mise en jeu",
       "coach": "Kenan D"
     },
@@ -348,7 +348,7 @@
       "start": "10:00",
       "end": "11:00",
       "status": "ok",
-      "participants": "1/8",
+      "participants": "2/8",
       "title": "All 4U Mise en jeu",
       "coach": "Kenan D"
     },
@@ -411,7 +411,7 @@
       "start": "18:00",
       "end": "19:00",
       "status": "ok",
-      "participants": "2/8",
+      "participants": "3/8",
       "title": "All 4U Mise en jeu",
       "coach": "Guillaume P"
     },
@@ -447,7 +447,7 @@
       "start": "17:00",
       "end": "18:00",
       "status": "ok",
-      "participants": "0/6",
+      "participants": "1/6",
       "title": "PERF trick shot aux approches",
       "coach": "Kenan D"
     }
