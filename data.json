@@ -1,33 +1,6 @@
 {
-  "generatedAt": "2026-07-02T21:57:18.139Z",
+  "generatedAt": "2026-07-02T22:57:15.557Z",
   "events": [
-    {
-      "iso": "2026-07-02",
-      "start": "11:00",
-      "end": "12:00",
-      "status": "ok",
-      "participants": "6/8",
-      "title": "All 4U Swing-fers",
-      "coach": "Kenan D"
-    },
-    {
-      "iso": "2026-07-02",
-      "start": "12:00",
-      "end": "13:00",
-      "status": "ok",
-      "participants": "4/6",
-      "title": "PERF Direction/Précision",
-      "coach": "Kenan D"
-    },
-    {
-      "iso": "2026-07-02",
-      "start": "14:30",
-      "end": "15:30",
-      "status": "ok",
-      "participants": "3/6",
-      "title": "Parcours 1h",
-      "coach": "Kenan D"
-    },
     {
       "iso": "2026-07-03",
       "start": "18:00",
@@ -444,11 +417,38 @@
     },
     {
       "iso": "2026-07-14",
+      "start": "16:00",
+      "end": "17:00",
+      "status": "ok",
+      "participants": "1/8",
+      "title": "All 4U approche lobée / bunker",
+      "coach": "Kenan D"
+    },
+    {
+      "iso": "2026-07-14",
       "start": "17:00",
       "end": "18:00",
       "status": "ok",
       "participants": "4/8",
       "title": "All 4U Swing-fers",
+      "coach": "Kenan D"
+    },
+    {
+      "iso": "2026-07-14",
+      "start": "18:00",
+      "end": "19:00",
+      "status": "almost",
+      "participants": "5/6",
+      "title": "Parcours 1h",
+      "coach": "Kenan D"
+    },
+    {
+      "iso": "2026-07-15",
+      "start": "10:00",
+      "end": "11:00",
+      "status": "ok",
+      "participants": "1/6",
+      "title": "PERF putter en mode sniper",
       "coach": "Kenan D"
     }
   ],
