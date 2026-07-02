@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-01T23:57:15.165Z",
+  "generatedAt": "2026-07-02T20:11:34.820Z",
   "events": [
     {
       "iso": "2026-07-02",
       "start": "11:00",
       "end": "12:00",
       "status": "ok",
-      "participants": "5/8",
+      "participants": "6/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
@@ -51,7 +51,7 @@
       "start": "10:00",
       "end": "11:00",
       "status": "ok",
-      "participants": "4/8",
+      "participants": "5/8",
       "title": "All 4U approches",
       "coach": "Guillaume P"
     },
@@ -104,8 +104,8 @@
       "iso": "2026-07-05",
       "start": "10:00",
       "end": "11:00",
-      "status": "ok",
-      "participants": "6/8",
+      "status": "almost",
+      "participants": "7/8",
       "title": "All 4U Mise en jeu",
       "coach": "Guillaume P"
     },
@@ -123,7 +123,7 @@
       "start": "12:00",
       "end": "13:00",
       "status": "ok",
-      "participants": "1/6",
+      "participants": "3/6",
       "title": "PERF anti slice / anti hook",
       "coach": "Guillaume P"
     },
@@ -150,7 +150,7 @@
       "start": "10:00",
       "end": "11:00",
       "status": "ok",
-      "participants": "2/6",
+      "participants": "3/6",
       "title": "PERF trick shot aux approches",
       "coach": "Guillaume P"
     },
@@ -158,8 +158,8 @@
       "iso": "2026-07-06",
       "start": "16:00",
       "end": "17:00",
-      "status": "ok",
-      "participants": "6/8",
+      "status": "full",
+      "participants": "8/8",
       "title": "All 4U approches",
       "coach": "Kenan D"
     },
@@ -176,8 +176,8 @@
       "iso": "2026-07-06",
       "start": "18:00",
       "end": "18:00",
-      "status": "almost",
-      "participants": "7/8",
+      "status": "full",
+      "participants": "8/8",
       "title": "All 4U Mise en jeu",
       "coach": "Kenan D"
     },
@@ -186,7 +186,7 @@
       "start": "13:00",
       "end": "14:00",
       "status": "ok",
-      "participants": "3/8",
+      "participants": "4/8",
       "title": "All 4U Mise en jeu",
       "coach": "Kenan D"
     },
@@ -195,7 +195,7 @@
       "start": "16:00",
       "end": "17:00",
       "status": "ok",
-      "participants": "4/8",
+      "participants": "5/8",
       "title": "All 4U Putting",
       "coach": "Kenan D"
     },
@@ -204,7 +204,7 @@
       "start": "17:00",
       "end": "18:00",
       "status": "ok",
-      "participants": "2/6",
+      "participants": "3/6",
       "title": "Parcours 1h",
       "coach": "Kenan D"
     },
@@ -222,7 +222,7 @@
       "start": "10:00",
       "end": "11:00",
       "status": "ok",
-      "participants": "1/8",
+      "participants": "2/8",
       "title": "All 4U Mise en jeu",
       "coach": "Kenan D"
     },
@@ -240,7 +240,7 @@
       "start": "14:00",
       "end": "18:00",
       "status": "ok",
-      "participants": "3/8",
+      "participants": "5/8",
       "title": "Parcours 1h",
       "coach": "Kenan D"
     },
@@ -267,7 +267,7 @@
       "start": "13:00",
       "end": "14:00",
       "status": "ok",
-      "participants": "2/6",
+      "participants": "3/6",
       "title": "PERF trick shot aux approches",
       "coach": "Guillaume P"
     },
@@ -276,7 +276,7 @@
       "start": "17:00",
       "end": "18:00",
       "status": "ok",
-      "participants": "2/8",
+      "participants": "3/8",
       "title": "Parcours 1h",
       "coach": "Guillaume P"
     },
