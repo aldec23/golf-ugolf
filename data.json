@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T09:57:14.528Z",
+  "generatedAt": "2026-07-03T12:44:08.865Z",
   "events": [
     {
       "iso": "2026-07-03",
@@ -105,7 +105,7 @@
       "start": "16:00",
       "end": "17:00",
       "status": "ok",
-      "participants": "4/8",
+      "participants": "3/8",
       "title": "All 4U Swing-fers",
       "coach": "Guillaume P"
     },
@@ -204,7 +204,7 @@
       "start": "14:00",
       "end": "15:00",
       "status": "ok",
-      "participants": "2/8",
+      "participants": "3/8",
       "title": "All 4U approche lobée / bunker",
       "coach": "Kenan D"
     },
@@ -231,7 +231,7 @@
       "start": "10:00",
       "end": "11:00",
       "status": "ok",
-      "participants": "3/8",
+      "participants": "4/8",
       "title": "All 4U Swing-fers",
       "coach": "Guillaume P"
     },
@@ -249,7 +249,7 @@
       "start": "17:00",
       "end": "18:00",
       "status": "ok",
-      "participants": "3/8",
+      "participants": "4/8",
       "title": "Parcours 1h",
       "coach": "Guillaume P"
     },
@@ -258,7 +258,7 @@
       "start": "18:00",
       "end": "19:00",
       "status": "ok",
-      "participants": "3/8",
+      "participants": "4/8",
       "title": "All 4U Mise en jeu",
       "coach": "Guillaume P"
     },
