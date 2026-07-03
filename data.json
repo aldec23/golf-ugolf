@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T05:57:14.627Z",
+  "generatedAt": "2026-07-03T06:57:16.793Z",
   "events": [
     {
       "iso": "2026-07-03",
@@ -33,7 +33,7 @@
       "start": "11:00",
       "end": "12:00",
       "status": "ok",
-      "participants": "2/6",
+      "participants": "3/6",
       "title": "Parcours 1h",
       "coach": "Guillaume P"
     },
@@ -59,8 +59,8 @@
       "iso": "2026-07-04",
       "start": "15:00",
       "end": "16:00",
-      "status": "almost",
-      "participants": "7/8",
+      "status": "ok",
+      "participants": "6/8",
       "title": "All 4U approche lobée / bunker",
       "coach": "Guillaume P"
     },
@@ -68,8 +68,8 @@
       "iso": "2026-07-04",
       "start": "16:00",
       "end": "17:00",
-      "status": "full",
-      "participants": "8/8",
+      "status": "almost",
+      "participants": "7/8",
       "title": "All 4U Swing-fers",
       "coach": "Guillaume P"
     },
