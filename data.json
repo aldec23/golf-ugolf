@@ -1,21 +1,12 @@
 {
-  "generatedAt": "2026-07-03T20:24:30.674Z",
+  "generatedAt": "2026-07-04T17:02:07.760Z",
   "events": [
-    {
-      "iso": "2026-07-03",
-      "start": "18:00",
-      "end": "19:00",
-      "status": "ok",
-      "participants": "2/8",
-      "title": "All 4U Swing-fers",
-      "coach": "Guillaume P"
-    },
     {
       "iso": "2026-07-04",
       "start": "09:00",
       "end": "10:00",
-      "status": "almost",
-      "participants": "5/6",
+      "status": "full",
+      "participants": "6/6",
       "title": "PERF anti slice / anti hook",
       "coach": "Guillaume P"
     },
@@ -24,7 +15,7 @@
       "start": "10:00",
       "end": "11:00",
       "status": "ok",
-      "participants": "5/8",
+      "participants": "4/8",
       "title": "All 4U approches",
       "coach": "Guillaume P"
     },
@@ -50,8 +41,8 @@
       "iso": "2026-07-04",
       "start": "14:00",
       "end": "15:00",
-      "status": "full",
-      "participants": "8/8",
+      "status": "ok",
+      "participants": "6/8",
       "title": "All 4U Putting",
       "coach": "Guillaume P"
     },
@@ -87,7 +78,7 @@
       "start": "12:00",
       "end": "13:00",
       "status": "booked",
-      "participants": "5/8",
+      "participants": "6/8",
       "title": "All 4U approches",
       "coach": "Guillaume P"
     },
@@ -449,6 +440,15 @@
       "status": "ok",
       "participants": "1/6",
       "title": "PERF putter en mode sniper",
+      "coach": "Kenan D"
+    },
+    {
+      "iso": "2026-07-15",
+      "start": "12:00",
+      "end": "13:00",
+      "status": "ok",
+      "participants": "0/8",
+      "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     }
   ],
