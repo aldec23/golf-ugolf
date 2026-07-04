@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T18:02:08.136Z",
+  "generatedAt": "2026-07-04T19:02:08.690Z",
   "events": [
     {
       "iso": "2026-07-04",
@@ -75,20 +75,20 @@
     },
     {
       "iso": "2026-07-05",
-      "start": "12:00",
-      "end": "13:00",
-      "status": "booked",
-      "participants": "6/8",
-      "title": "All 4U approches",
+      "start": "11:00",
+      "end": "12:00",
+      "status": "ok",
+      "participants": "3/6",
+      "title": "PERF anti slice / anti hook",
       "coach": "Guillaume P"
     },
     {
       "iso": "2026-07-05",
       "start": "12:00",
       "end": "13:00",
-      "status": "ok",
-      "participants": "3/6",
-      "title": "PERF anti slice / anti hook",
+      "status": "booked",
+      "participants": "6/8",
+      "title": "All 4U approches",
       "coach": "Guillaume P"
     },
     {
