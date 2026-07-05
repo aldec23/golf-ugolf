@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-05T02:02:08.071Z",
+  "generatedAt": "2026-07-05T16:29:20.229Z",
   "events": [
     {
       "iso": "2026-07-05",
       "start": "10:00",
       "end": "11:00",
-      "status": "almost",
-      "participants": "7/8",
+      "status": "ok",
+      "participants": "5/8",
       "title": "All 4U Mise en jeu",
       "coach": "Guillaume P"
     },
@@ -15,7 +15,7 @@
       "start": "11:00",
       "end": "12:00",
       "status": "ok",
-      "participants": "3/6",
+      "participants": "2/6",
       "title": "PERF anti slice / anti hook",
       "coach": "Guillaume P"
     },
@@ -30,8 +30,8 @@
     },
     {
       "iso": "2026-07-05",
-      "start": "16:00",
-      "end": "17:00",
+      "start": "15:00",
+      "end": "16:00",
       "status": "ok",
       "participants": "3/8",
       "title": "All 4U Swing-fers",
@@ -41,8 +41,8 @@
       "iso": "2026-07-05",
       "start": "16:00",
       "end": "17:00",
-      "status": "almost",
-      "participants": "5/6",
+      "status": "booked",
+      "participants": "6/6",
       "title": "Parcours 1h",
       "coach": "Guillaume P"
     },
@@ -51,7 +51,7 @@
       "start": "10:00",
       "end": "11:00",
       "status": "ok",
-      "participants": "4/6",
+      "participants": "3/6",
       "title": "PERF trick shot aux approches",
       "coach": "Guillaume P"
     },
@@ -59,8 +59,8 @@
       "iso": "2026-07-06",
       "start": "16:00",
       "end": "17:00",
-      "status": "full",
-      "participants": "8/8",
+      "status": "almost",
+      "participants": "7/8",
       "title": "All 4U approches",
       "coach": "Kenan D"
     },
@@ -104,8 +104,8 @@
       "iso": "2026-07-07",
       "start": "17:00",
       "end": "18:00",
-      "status": "ok",
-      "participants": "4/6",
+      "status": "almost",
+      "participants": "5/6",
       "title": "Parcours 1h",
       "coach": "Kenan D"
     },
@@ -176,8 +176,8 @@
       "iso": "2026-07-10",
       "start": "17:00",
       "end": "18:00",
-      "status": "ok",
-      "participants": "4/8",
+      "status": "booked",
+      "participants": "5/8",
       "title": "Parcours 1h",
       "coach": "Guillaume P"
     },
@@ -248,8 +248,8 @@
       "iso": "2026-07-11",
       "start": "18:00",
       "end": "19:00",
-      "status": "ok",
-      "participants": "0/6",
+      "status": "booked",
+      "participants": "1/6",
       "title": "Parcours 1h",
       "coach": "Kenan D"
     },
@@ -447,7 +447,7 @@
       "start": "09:00",
       "end": "10:00",
       "status": "ok",
-      "participants": "1/6",
+      "participants": "2/6",
       "title": "PERF putter en mode sniper",
       "coach": "Guillaume P"
     }
