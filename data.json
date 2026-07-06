@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T18:02:11.289Z",
+  "generatedAt": "2026-07-06T19:02:08.802Z",
   "events": [
     {
       "iso": "2026-07-06",
@@ -31,9 +31,9 @@
     {
       "iso": "2026-07-06",
       "start": "18:00",
-      "end": "18:00",
-      "status": "full",
-      "participants": "8/8",
+      "end": "19:00",
+      "status": "almost",
+      "participants": "7/8",
       "title": "All 4U Mise en jeu",
       "coach": "Kenan D"
     },
@@ -93,20 +93,20 @@
     },
     {
       "iso": "2026-07-08",
-      "start": "14:00",
-      "end": "18:00",
-      "status": "ok",
-      "participants": "4/8",
-      "title": "Parcours 1h",
-      "coach": "Kenan D"
-    },
-    {
-      "iso": "2026-07-08",
       "start": "15:00",
       "end": "16:00",
       "status": "ok",
       "participants": "3/6",
       "title": "PERF trick shot aux approches",
+      "coach": "Kenan D"
+    },
+    {
+      "iso": "2026-07-08",
+      "start": "17:00",
+      "end": "18:00",
+      "status": "ok",
+      "participants": "4/8",
+      "title": "Parcours 1h",
       "coach": "Kenan D"
     },
     {
@@ -168,7 +168,7 @@
       "start": "11:00",
       "end": "12:00",
       "status": "ok",
-      "participants": "3/8",
+      "participants": "4/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
