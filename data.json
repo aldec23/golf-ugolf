@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-06T23:02:09.440Z",
+  "generatedAt": "2026-07-07T18:02:11.809Z",
   "events": [
     {
       "iso": "2026-07-07",
       "start": "13:00",
       "end": "14:00",
       "status": "ok",
-      "participants": "5/8",
+      "participants": "6/8",
       "title": "All 4U Mise en jeu",
       "coach": "Kenan D"
     },
@@ -14,8 +14,8 @@
       "iso": "2026-07-07",
       "start": "16:00",
       "end": "17:00",
-      "status": "ok",
-      "participants": "6/8",
+      "status": "full",
+      "participants": "8/8",
       "title": "All 4U Putting",
       "coach": "Kenan D"
     },
@@ -186,7 +186,7 @@
       "start": "11:00",
       "end": "12:00",
       "status": "ok",
-      "participants": "3/8",
+      "participants": "4/8",
       "title": "All 4U approches",
       "coach": "Kenan D"
     },
@@ -213,7 +213,7 @@
       "start": "15:00",
       "end": "16:00",
       "status": "ok",
-      "participants": "0/6",
+      "participants": "1/6",
       "title": "Parcours 1h",
       "coach": "Guillaume P"
     },
@@ -222,7 +222,7 @@
       "start": "16:00",
       "end": "17:00",
       "status": "ok",
-      "participants": "2/8",
+      "participants": "3/8",
       "title": "All 4U Mise en jeu",
       "coach": "Kenan D"
     },
