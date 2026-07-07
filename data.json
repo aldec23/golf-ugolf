@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T19:02:08.792Z",
+  "generatedAt": "2026-07-07T20:02:08.861Z",
   "events": [
     {
       "iso": "2026-07-07",
@@ -294,7 +294,7 @@
       "start": "10:00",
       "end": "11:00",
       "status": "ok",
-      "participants": "2/6",
+      "participants": "3/6",
       "title": "PERF putter en mode sniper",
       "coach": "Kenan D"
     },
