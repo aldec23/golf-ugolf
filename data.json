@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T10:02:05.858Z",
+  "generatedAt": "2026-07-10T11:02:23.255Z",
   "events": [
     {
       "iso": "2026-07-10",
@@ -15,7 +15,7 @@
       "start": "13:00",
       "end": "14:00",
       "status": "ok",
-      "participants": "2/6",
+      "participants": "1/6",
       "title": "PERF trick shot aux approches",
       "coach": "Guillaume P"
     },
@@ -42,7 +42,7 @@
       "start": "09:00",
       "end": "10:00",
       "status": "ok",
-      "participants": "2/6",
+      "participants": "1/6",
       "title": "PERF trick shot aux approches",
       "coach": "Guillaume P"
     },
@@ -107,7 +107,7 @@
       "status": "ok",
       "participants": "0/6",
       "title": "PERF trick shot aux approches",
-      "coach": "Guillaume P"
+      "coach": "Kenan D"
     },
     {
       "iso": "2026-07-12",
@@ -123,7 +123,7 @@
       "start": "12:00",
       "end": "13:00",
       "status": "ok",
-      "participants": "2/8",
+      "participants": "1/8",
       "title": "All 4U Swing-fers",
       "coach": "Guillaume P"
     },
