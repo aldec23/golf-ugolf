@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T20:02:08.276Z",
+  "generatedAt": "2026-07-10T21:02:08.208Z",
   "events": [
     {
       "iso": "2026-07-10",
@@ -366,7 +366,7 @@
       "start": "12:00",
       "end": "13:00",
       "status": "ok",
-      "participants": "1/8",
+      "participants": "3/8",
       "title": "All 4U Putting",
       "coach": "Guillaume P"
     },
