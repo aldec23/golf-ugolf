@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T02:02:08.384Z",
+  "generatedAt": "2026-07-11T03:02:19.869Z",
   "events": [
     {
       "iso": "2026-07-11",
@@ -23,8 +23,8 @@
       "iso": "2026-07-11",
       "start": "11:00",
       "end": "12:00",
-      "status": "almost",
-      "participants": "7/8",
+      "status": "ok",
+      "participants": "6/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
@@ -266,8 +266,8 @@
       "iso": "2026-07-18",
       "start": "09:00",
       "end": "10:00",
-      "status": "ok",
-      "participants": "4/6",
+      "status": "almost",
+      "participants": "5/6",
       "title": "PERF putter en mode sniper",
       "coach": "Guillaume P"
     },
@@ -275,8 +275,8 @@
       "iso": "2026-07-18",
       "start": "10:00",
       "end": "11:00",
-      "status": "ok",
-      "participants": "5/8",
+      "status": "almost",
+      "participants": "7/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
