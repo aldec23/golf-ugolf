@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T02:21:28.826Z",
+  "generatedAt": "2026-07-12T03:02:24.891Z",
   "events": [
     {
       "iso": "2026-07-13",
@@ -24,7 +24,7 @@
       "start": "16:00",
       "end": "17:00",
       "status": "ok",
-      "participants": "3/8",
+      "participants": "5/8",
       "title": "All 4U approche lobée / bunker",
       "coach": "Kenan D"
     },
@@ -60,7 +60,7 @@
       "start": "12:00",
       "end": "13:00",
       "status": "ok",
-      "participants": "1/8",
+      "participants": "2/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
