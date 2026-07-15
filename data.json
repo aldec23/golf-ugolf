@@ -1,21 +1,12 @@
 {
-  "generatedAt": "2026-07-12T22:02:08.562Z",
+  "generatedAt": "2026-07-15T21:02:21.694Z",
   "events": [
-    {
-      "iso": "2026-07-13",
-      "start": "09:00",
-      "end": "10:00",
-      "status": "full",
-      "participants": "6/6",
-      "title": "PERF putter en mode sniper",
-      "coach": "Guillaume P"
-    },
     {
       "iso": "2026-07-15",
       "start": "10:00",
       "end": "11:00",
       "status": "ok",
-      "participants": "3/6",
+      "participants": "2/6",
       "title": "PERF putter en mode sniper",
       "coach": "Kenan D"
     },
@@ -24,7 +15,7 @@
       "start": "12:00",
       "end": "13:00",
       "status": "ok",
-      "participants": "2/8",
+      "participants": "4/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
@@ -32,8 +23,8 @@
       "iso": "2026-07-15",
       "start": "15:00",
       "end": "16:00",
-      "status": "ok",
-      "participants": "0/8",
+      "status": "full",
+      "participants": "3/3",
       "title": "All 4U approche lobée / bunker",
       "coach": "Kenan D"
     },
@@ -41,8 +32,8 @@
       "iso": "2026-07-15",
       "start": "16:00",
       "end": "17:00",
-      "status": "ok",
-      "participants": "0/8",
+      "status": "full",
+      "participants": "1/1",
       "title": "All 4U Putting",
       "coach": "Kenan D"
     },
@@ -51,7 +42,7 @@
       "start": "10:00",
       "end": "11:00",
       "status": "ok",
-      "participants": "3/8",
+      "participants": "5/8",
       "title": "All 4U Mise en jeu",
       "coach": "Guillaume P"
     },
@@ -60,7 +51,7 @@
       "start": "12:00",
       "end": "13:00",
       "status": "ok",
-      "participants": "0/6",
+      "participants": "1/6",
       "title": "PERF putter en mode sniper",
       "coach": "Guillaume P"
     },
@@ -78,7 +69,7 @@
       "start": "18:00",
       "end": "19:00",
       "status": "ok",
-      "participants": "1/8",
+      "participants": "3/8",
       "title": "Parcours 1h",
       "coach": "Guillaume P"
     },
@@ -86,8 +77,8 @@
       "iso": "2026-07-18",
       "start": "09:00",
       "end": "10:00",
-      "status": "almost",
-      "participants": "5/6",
+      "status": "full",
+      "participants": "6/6",
       "title": "PERF putter en mode sniper",
       "coach": "Guillaume P"
     },
@@ -95,8 +86,8 @@
       "iso": "2026-07-18",
       "start": "10:00",
       "end": "11:00",
-      "status": "almost",
-      "participants": "7/8",
+      "status": "full",
+      "participants": "8/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
@@ -104,8 +95,8 @@
       "iso": "2026-07-18",
       "start": "11:00",
       "end": "12:00",
-      "status": "ok",
-      "participants": "3/6",
+      "status": "almost",
+      "participants": "5/6",
       "title": "Parcours 1h",
       "coach": "Kenan D"
     },
@@ -150,7 +141,7 @@
       "start": "12:00",
       "end": "13:00",
       "status": "ok",
-      "participants": "3/8",
+      "participants": "5/8",
       "title": "All 4U Putting",
       "coach": "Guillaume P"
     },
@@ -159,7 +150,7 @@
       "start": "15:00",
       "end": "16:00",
       "status": "ok",
-      "participants": "0/6",
+      "participants": "1/5",
       "title": "Parcours 1h",
       "coach": "Guillaume P"
     },
@@ -168,7 +159,7 @@
       "start": "16:00",
       "end": "17:00",
       "status": "ok",
-      "participants": "0/8",
+      "participants": "2/8",
       "title": "All 4U Swing-fers",
       "coach": "Guillaume P"
     },
@@ -213,7 +204,7 @@
       "start": "16:00",
       "end": "17:00",
       "status": "ok",
-      "participants": "1/8",
+      "participants": "2/8",
       "title": "All 4U Putting",
       "coach": "Kenan D"
     },
@@ -222,7 +213,7 @@
       "start": "17:00",
       "end": "18:00",
       "status": "ok",
-      "participants": "3/8",
+      "participants": "4/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
@@ -239,8 +230,8 @@
       "iso": "2026-07-22",
       "start": "10:00",
       "end": "11:00",
-      "status": "ok",
-      "participants": "3/6",
+      "status": "almost",
+      "participants": "5/6",
       "title": "PERF record du monde de Drive",
       "coach": "Kenan D"
     },
@@ -267,7 +258,7 @@
       "start": "17:00",
       "end": "18:00",
       "status": "ok",
-      "participants": "1/8",
+      "participants": "2/8",
       "title": "Parcours 1h",
       "coach": "Kenan D"
     },
@@ -294,7 +285,7 @@
       "start": "14:00",
       "end": "15:00",
       "status": "ok",
-      "participants": "1/8",
+      "participants": "2/7",
       "title": "All 4U approche lobée / bunker",
       "coach": "Kenan D"
     },
@@ -404,6 +395,15 @@
       "status": "ok",
       "participants": "0/6",
       "title": "PERF record du monde de Drive",
+      "coach": "Guillaume P"
+    },
+    {
+      "iso": "2026-07-26",
+      "start": "11:00",
+      "end": "12:00",
+      "status": "ok",
+      "participants": "2/8",
+      "title": "All 4U approches",
       "coach": "Guillaume P"
     },
     {
