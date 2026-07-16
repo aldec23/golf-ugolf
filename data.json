@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-15T22:02:11.090Z",
+  "generatedAt": "2026-07-16T08:02:23.969Z",
   "events": [
     {
       "iso": "2026-07-17",
       "start": "10:00",
       "end": "11:00",
       "status": "ok",
-      "participants": "5/8",
+      "participants": "6/8",
       "title": "All 4U Mise en jeu",
       "coach": "Guillaume P"
     },
@@ -59,8 +59,8 @@
       "iso": "2026-07-18",
       "start": "11:00",
       "end": "12:00",
-      "status": "almost",
-      "participants": "5/6",
+      "status": "ok",
+      "participants": "4/6",
       "title": "Parcours 1h",
       "coach": "Kenan D"
     },
@@ -258,7 +258,7 @@
       "start": "16:00",
       "end": "17:00",
       "status": "ok",
-      "participants": "0/8",
+      "participants": "1/8",
       "title": "All 4U mise en jeu",
       "coach": "Guillaume P"
     },
