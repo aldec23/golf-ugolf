@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T16:20:38.044Z",
+  "generatedAt": "2026-07-16T20:17:06.529Z",
   "events": [
     {
       "iso": "2026-07-17",
@@ -15,7 +15,7 @@
       "start": "12:00",
       "end": "13:00",
       "status": "ok",
-      "participants": "1/6",
+      "participants": "0/6",
       "title": "PERF putter en mode sniper",
       "coach": "Guillaume P"
     },
@@ -33,7 +33,7 @@
       "start": "18:00",
       "end": "19:00",
       "status": "ok",
-      "participants": "3/8",
+      "participants": "4/8",
       "title": "Parcours 1h",
       "coach": "Guillaume P"
     },
@@ -59,8 +59,8 @@
       "iso": "2026-07-18",
       "start": "11:00",
       "end": "12:00",
-      "status": "ok",
-      "participants": "4/6",
+      "status": "almost",
+      "participants": "5/6",
       "title": "Parcours 1h",
       "coach": "Kenan D"
     },
@@ -69,7 +69,7 @@
       "start": "12:00",
       "end": "13:00",
       "status": "ok",
-      "participants": "1/8",
+      "participants": "2/8",
       "title": "All 4U mise en jeu",
       "coach": "Guillaume P"
     },
