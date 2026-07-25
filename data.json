@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T18:02:08.805Z",
+  "generatedAt": "2026-07-25T19:02:11.713Z",
   "events": [
     {
       "iso": "2026-07-25",
@@ -84,8 +84,8 @@
     },
     {
       "iso": "2026-07-26",
-      "start": "09:00",
-      "end": "10:00",
+      "start": "10:00",
+      "end": "11:00",
       "status": "ok",
       "participants": "1/6",
       "title": "PERF record du monde de Drive",
@@ -104,8 +104,8 @@
       "iso": "2026-07-26",
       "start": "12:00",
       "end": "13:00",
-      "status": "almost",
-      "participants": "5/6",
+      "status": "ok",
+      "participants": "4/6",
       "title": "Parcours 1h",
       "coach": "Kenan D"
     },
@@ -114,7 +114,7 @@
       "start": "14:00",
       "end": "15:00",
       "status": "ok",
-      "participants": "3/8",
+      "participants": "2/8",
       "title": "All 4U Putting",
       "coach": "Guillaume P"
     },
@@ -167,8 +167,8 @@
       "iso": "2026-07-27",
       "start": "13:00",
       "end": "14:00",
-      "status": "ok",
-      "participants": "6/8",
+      "status": "almost",
+      "participants": "7/8",
       "title": "All 4U approches",
       "coach": "Kenan D"
     },
@@ -176,8 +176,8 @@
       "iso": "2026-07-27",
       "start": "14:00",
       "end": "15:00",
-      "status": "almost",
-      "participants": "5/6",
+      "status": "ok",
+      "participants": "4/6",
       "title": "Parcours 1h",
       "coach": "Kenan D"
     },
@@ -222,7 +222,7 @@
       "start": "10:00",
       "end": "11:00",
       "status": "ok",
-      "participants": "2/7",
+      "participants": "3/7",
       "title": "All 4U Mise en jeu",
       "coach": "Kenan D"
     },
@@ -339,7 +339,7 @@
       "start": "10:00",
       "end": "11:00",
       "status": "ok",
-      "participants": "3/8",
+      "participants": "4/8",
       "title": "All 4U approches",
       "coach": "Kenan D"
     },
@@ -393,7 +393,7 @@
       "start": "11:00",
       "end": "12:00",
       "status": "ok",
-      "participants": "2/8",
+      "participants": "3/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
@@ -447,7 +447,7 @@
       "start": "10:00",
       "end": "11:00",
       "status": "ok",
-      "participants": "2/8",
+      "participants": "3/8",
       "title": "All 4U Putting",
       "coach": "Kenan D"
     }
