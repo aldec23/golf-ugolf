@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T09:31:06.961Z",
+  "generatedAt": "2026-07-26T10:02:09.242Z",
   "events": [
     {
       "iso": "2026-07-26",
@@ -222,7 +222,7 @@
       "start": "11:00",
       "end": "12:00",
       "status": "ok",
-      "participants": "3/8",
+      "participants": "4/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
@@ -239,8 +239,8 @@
       "iso": "2026-08-02",
       "start": "15:00",
       "end": "16:00",
-      "status": "almost",
-      "participants": "7/8",
+      "status": "full",
+      "participants": "8/8",
       "title": "All 4U approches",
       "coach": "Kenan D"
     },
