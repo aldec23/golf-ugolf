@@ -153,6 +153,8 @@ main { padding: 12px; max-width: 600px; margin: 0 auto; }
   pointer-events: none;
 }
 .btn-book.booked { background: #1976d2; }
+.btn-book.cancel { background: #c62828; }
+.btn-book.cancel:active { background: #9b1f1f; }
 .event-card.full { border-left-color: #c62828; opacity: 0.7; }
 .event-card.almost { border-left-color: #e67e22; }
 .event-card.booked { border-left-color: #1976d2; background: #eff5fc; }
@@ -395,7 +397,7 @@ function render() {
                       dateParam + '&start=0&limit=50';
       let btnHtml;
       if (ev.status === 'booked') {
-        btnHtml = '<button class="btn-book booked" disabled>✓ Réservé</button>';
+        btnHtml = '<a class="btn-book cancel" href="' + bookUrl + '" target="_blank" rel="noopener">Annuler</a>';
       } else if (ev.status === 'full') {
         btnHtml = '<button class="btn-book" disabled>Complet</button>';
       } else {
