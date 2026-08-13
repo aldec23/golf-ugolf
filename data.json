@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T07:05:01.935Z",
+  "generatedAt": "2026-08-13T13:45:10.881Z",
   "events": [
     {
       "iso": "2026-08-13",
@@ -69,7 +69,7 @@
       "start": "15:00",
       "end": "16:00",
       "status": "ok",
-      "participants": "5/8",
+      "participants": "6/8",
       "title": "All 4U Putting",
       "coach": "Kenan D"
     },
@@ -204,7 +204,7 @@
       "start": "14:00",
       "end": "15:00",
       "status": "ok",
-      "participants": "3/8",
+      "participants": "4/8",
       "title": "All 4U approches",
       "coach": "Guillaume P"
     },
