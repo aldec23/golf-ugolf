@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T22:44:38.216Z",
+  "generatedAt": "2026-11-11T18:38:35.924Z",
   "events": [
     {
       "iso": "2026-11-13",
@@ -86,8 +86,8 @@
       "iso": "2026-11-15",
       "start": "11:00",
       "end": "12:00",
-      "status": "almost",
-      "participants": "7/8",
+      "status": "full",
+      "participants": "8/8",
       "title": "All 4U Approches",
       "coach": "Guillaume P"
     },
@@ -320,8 +320,8 @@
       "iso": "2026-11-22",
       "start": "09:00",
       "end": "10:00",
-      "status": "almost",
-      "participants": "7/8",
+      "status": "full",
+      "participants": "8/8",
       "title": "All 4U Mise en jeu",
       "coach": "Guillaume P"
     },
@@ -365,8 +365,8 @@
       "iso": "2026-11-22",
       "start": "14:00",
       "end": "15:00",
-      "status": "almost",
-      "participants": "7/8",
+      "status": "full",
+      "participants": "8/8",
       "title": "All 4U Approche",
       "coach": "Guillaume P"
     },
