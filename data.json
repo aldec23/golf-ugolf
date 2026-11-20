@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-19T10:11:09.299Z",
+  "generatedAt": "2026-11-20T16:32:48.476Z",
   "events": [
     {
       "iso": "2026-11-20",
       "start": "15:00",
       "end": "16:00",
-      "status": "full",
-      "participants": "8/8",
+      "status": "ok",
+      "participants": "6/8",
       "title": "All 4U Approche lobée / bunker",
       "coach": "Guillaume P"
     },
@@ -15,7 +15,7 @@
       "start": "16:00",
       "end": "17:00",
       "status": "ok",
-      "participants": "2/6",
+      "participants": "3/6",
       "title": "PERF Putter en mode sniper",
       "coach": "Guillaume P"
     },
@@ -24,7 +24,7 @@
       "start": "09:00",
       "end": "10:00",
       "status": "ok",
-      "participants": "3/6",
+      "participants": "4/6",
       "title": "PERF Putter en mode sniper",
       "coach": "Guillaume P"
     },
@@ -32,8 +32,8 @@
       "iso": "2026-11-21",
       "start": "12:00",
       "end": "13:00",
-      "status": "ok",
-      "participants": "6/8",
+      "status": "almost",
+      "participants": "7/8",
       "title": "All 4U Putting",
       "coach": "Kenan D"
     },
@@ -42,7 +42,7 @@
       "start": "14:00",
       "end": "15:00",
       "status": "ok",
-      "participants": "1/5",
+      "participants": "2/5",
       "title": "PERF Putter en mode sniper",
       "coach": "Kenan D"
     },
@@ -68,8 +68,8 @@
       "iso": "2026-11-21",
       "start": "18:00",
       "end": "19:00",
-      "status": "full",
-      "participants": "8/8",
+      "status": "booked",
+      "participants": "7/8",
       "title": "All 4U Approches",
       "coach": "Kenan D"
     },
@@ -122,7 +122,7 @@
       "iso": "2026-11-22",
       "start": "14:00",
       "end": "15:00",
-      "status": "full",
+      "status": "booked",
       "participants": "8/8",
       "title": "All 4U Approche",
       "coach": "Guillaume P"
@@ -140,8 +140,8 @@
       "iso": "2026-11-23",
       "start": "10:00",
       "end": "11:00",
-      "status": "almost",
-      "participants": "5/6",
+      "status": "full",
+      "participants": "6/6",
       "title": "PERF Record du monde de Drive",
       "coach": "Guillaume P"
     },
@@ -177,7 +177,7 @@
       "start": "18:00",
       "end": "19:00",
       "status": "ok",
-      "participants": "5/8",
+      "participants": "4/8",
       "title": "All 4U Putting",
       "coach": "Kenan D"
     },
@@ -186,7 +186,7 @@
       "start": "13:00",
       "end": "14:00",
       "status": "ok",
-      "participants": "3/6",
+      "participants": "4/6",
       "title": "PERF Record du monde de Drive",
       "coach": "Kenan D"
     },
@@ -429,7 +429,7 @@
       "start": "16:00",
       "end": "17:00",
       "status": "ok",
-      "participants": "2/6",
+      "participants": "3/6",
       "title": "PERF Trick shot aux approches",
       "coach": "Kenan D"
     },
