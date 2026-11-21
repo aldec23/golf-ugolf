@@ -1,24 +1,6 @@
 {
-  "generatedAt": "2026-11-20T18:59:48.016Z",
+  "generatedAt": "2026-11-21T16:06:47.402Z",
   "events": [
-    {
-      "iso": "2026-11-20",
-      "start": "15:00",
-      "end": "16:00",
-      "status": "ok",
-      "participants": "6/8",
-      "title": "All 4U Approche lobée / bunker",
-      "coach": "Guillaume P"
-    },
-    {
-      "iso": "2026-11-20",
-      "start": "16:00",
-      "end": "17:00",
-      "status": "ok",
-      "participants": "3/6",
-      "title": "PERF Putter en mode sniper",
-      "coach": "Guillaume P"
-    },
     {
       "iso": "2026-11-21",
       "start": "09:00",
@@ -86,8 +68,8 @@
       "iso": "2026-11-22",
       "start": "10:00",
       "end": "11:00",
-      "status": "full",
-      "participants": "8/8",
+      "status": "almost",
+      "participants": "7/8",
       "title": "All 4U Putting",
       "coach": "Kenan D"
     },
@@ -104,8 +86,8 @@
       "iso": "2026-11-22",
       "start": "12:00",
       "end": "13:00",
-      "status": "full",
-      "participants": "8/8",
+      "status": "ok",
+      "participants": "6/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
@@ -158,8 +140,8 @@
       "iso": "2026-11-23",
       "start": "14:00",
       "end": "15:00",
-      "status": "full",
-      "participants": "6/6",
+      "status": "almost",
+      "participants": "5/6",
       "title": "Parcours 1h",
       "coach": "Kenan D"
     },
@@ -203,8 +185,8 @@
       "iso": "2026-11-24",
       "start": "16:00",
       "end": "17:00",
-      "status": "almost",
-      "participants": "5/6",
+      "status": "full",
+      "participants": "6/6",
       "title": "Parcours 1h",
       "coach": "Kenan D"
     },
@@ -212,8 +194,8 @@
       "iso": "2026-11-24",
       "start": "18:00",
       "end": "19:00",
-      "status": "full",
-      "participants": "8/8",
+      "status": "almost",
+      "participants": "7/8",
       "title": "All 4U Approches",
       "coach": "Kenan D"
     },
@@ -230,8 +212,8 @@
       "iso": "2026-11-25",
       "start": "17:00",
       "end": "18:00",
-      "status": "full",
-      "participants": "8/8",
+      "status": "almost",
+      "participants": "7/8",
       "title": "All 4U Mise en jeu",
       "coach": "Kenan D"
     },
@@ -240,7 +222,7 @@
       "start": "14:00",
       "end": "15:00",
       "status": "ok",
-      "participants": "4/8",
+      "participants": "6/8",
       "title": "All 4U Approche lobée / bunker",
       "coach": "Guillaume P"
     },
@@ -312,7 +294,7 @@
       "start": "12:00",
       "end": "13:00",
       "status": "ok",
-      "participants": "3/6",
+      "participants": "4/6",
       "title": "Parcours 1h",
       "coach": "Guillaume P"
     },
@@ -357,7 +339,7 @@
       "start": "18:00",
       "end": "19:00",
       "status": "ok",
-      "participants": "2/8",
+      "participants": "5/8",
       "title": "All 4U Putting",
       "coach": "Kenan D"
     },
@@ -366,7 +348,7 @@
       "start": "10:00",
       "end": "11:00",
       "status": "ok",
-      "participants": "1/6",
+      "participants": "3/6",
       "title": "PERF Trick shot aux approches",
       "coach": "Guillaume P"
     },
@@ -401,8 +383,8 @@
       "iso": "2026-11-30",
       "start": "17:00",
       "end": "18:00",
-      "status": "almost",
-      "participants": "7/8",
+      "status": "full",
+      "participants": "8/8",
       "title": "All 4U Approches",
       "coach": "Kenan D"
     },
@@ -419,8 +401,8 @@
       "iso": "2026-12-01",
       "start": "14:00",
       "end": "15:00",
-      "status": "almost",
-      "participants": "5/6",
+      "status": "full",
+      "participants": "6/6",
       "title": "Parcours 1h",
       "coach": "Kenan D"
     },
@@ -429,7 +411,7 @@
       "start": "16:00",
       "end": "17:00",
       "status": "ok",
-      "participants": "3/6",
+      "participants": "4/6",
       "title": "PERF Trick shot aux approches",
       "coach": "Kenan D"
     },
@@ -437,8 +419,8 @@
       "iso": "2026-12-01",
       "start": "18:00",
       "end": "19:00",
-      "status": "ok",
-      "participants": "5/8",
+      "status": "full",
+      "participants": "8/8",
       "title": "All 4U Putting",
       "coach": "Kenan D"
     },
@@ -450,6 +432,24 @@
       "participants": "8/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
+    },
+    {
+      "iso": "2026-12-04",
+      "start": "15:00",
+      "end": "16:00",
+      "status": "ok",
+      "participants": "0/6",
+      "title": "PERF Trick shot aux approches",
+      "coach": "Guillaume P"
+    },
+    {
+      "iso": "2026-12-04",
+      "start": "16:00",
+      "end": "17:00",
+      "status": "ok",
+      "participants": "6/8",
+      "title": "All 4U Mise en jeu",
+      "coach": "Guillaume P"
     }
   ],
   "source": "nexxchange.com",
