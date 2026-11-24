@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T12:10:31.878Z",
+  "generatedAt": "2026-11-24T22:58:42.121Z",
   "events": [
     {
       "iso": "2026-11-24",
@@ -23,8 +23,8 @@
       "iso": "2026-11-24",
       "start": "16:00",
       "end": "17:00",
-      "status": "full",
-      "participants": "6/6",
+      "status": "almost",
+      "participants": "5/6",
       "title": "Parcours 1h",
       "coach": "Kenan D"
     },
@@ -59,8 +59,8 @@
       "iso": "2026-11-27",
       "start": "14:00",
       "end": "15:00",
-      "status": "almost",
-      "participants": "7/8",
+      "status": "full",
+      "participants": "8/8",
       "title": "All 4U Approche lobée / bunker",
       "coach": "Guillaume P"
     },
@@ -86,8 +86,8 @@
       "iso": "2026-11-28",
       "start": "12:00",
       "end": "13:00",
-      "status": "almost",
-      "participants": "7/8",
+      "status": "full",
+      "participants": "8/8",
       "title": "All 4U Mise en jeu",
       "coach": "Kenan D"
     },
@@ -95,8 +95,8 @@
       "iso": "2026-11-28",
       "start": "14:00",
       "end": "15:00",
-      "status": "full",
-      "participants": "8/8",
+      "status": "almost",
+      "participants": "8/9",
       "title": "All 4U Approche Kenan",
       "coach": ""
     },
@@ -284,8 +284,8 @@
       "iso": "2026-12-02",
       "start": "12:00",
       "end": "13:00",
-      "status": "almost",
-      "participants": "7/8",
+      "status": "full",
+      "participants": "8/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
@@ -338,8 +338,8 @@
       "iso": "2026-12-05",
       "start": "17:00",
       "end": "18:00",
-      "status": "ok",
-      "participants": "6/8",
+      "status": "almost",
+      "participants": "7/8",
       "title": "All 4U Swing-fers",
       "coach": "Guillaume P"
     },
@@ -357,7 +357,7 @@
       "start": "09:00",
       "end": "10:00",
       "status": "ok",
-      "participants": "0/8",
+      "participants": "1/8",
       "title": "Approche Guillaume",
       "coach": ""
     },
