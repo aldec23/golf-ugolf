@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-25T23:43:05.514Z",
+  "generatedAt": "2026-11-27T19:38:33.592Z",
   "events": [
     {
       "iso": "2026-11-27",
       "start": "14:00",
       "end": "15:00",
-      "status": "almost",
-      "participants": "7/8",
+      "status": "full",
+      "participants": "8/8",
       "title": "All 4U Approche lobée / bunker",
       "coach": "Guillaume P"
     },
@@ -15,7 +15,7 @@
       "start": "15:00",
       "end": "16:00",
       "status": "ok",
-      "participants": "2/6",
+      "participants": "3/6",
       "title": "PERF Record du monde de Drive",
       "coach": "Guillaume P"
     },
@@ -23,8 +23,8 @@
       "iso": "2026-11-28",
       "start": "09:00",
       "end": "10:00",
-      "status": "full",
-      "participants": "6/6",
+      "status": "ok",
+      "participants": "4/6",
       "title": "PERF Record du monde de Drive",
       "coach": "Guillaume P"
     },
@@ -32,8 +32,8 @@
       "iso": "2026-11-28",
       "start": "12:00",
       "end": "13:00",
-      "status": "full",
-      "participants": "8/8",
+      "status": "almost",
+      "participants": "7/8",
       "title": "All 4U Mise en jeu",
       "coach": "Kenan D"
     },
@@ -60,7 +60,7 @@
       "start": "10:00",
       "end": "11:00",
       "status": "ok",
-      "participants": "1/6",
+      "participants": "4/6",
       "title": "PERF Record du monde de Drive",
       "coach": "Kenan D"
     },
@@ -68,8 +68,8 @@
       "iso": "2026-11-29",
       "start": "11:00",
       "end": "12:00",
-      "status": "almost",
-      "participants": "7/8",
+      "status": "full",
+      "participants": "8/8",
       "title": "All 4U Swing-fers",
       "coach": "Kenan D"
     },
@@ -87,7 +87,7 @@
       "start": "12:00",
       "end": "13:00",
       "status": "ok",
-      "participants": "5/8",
+      "participants": "4/8",
       "title": "All 4U Approche lobée / bunker",
       "coach": "Kenan D"
     },
@@ -195,7 +195,7 @@
       "start": "18:00",
       "end": "19:00",
       "status": "ok",
-      "participants": "5/8",
+      "participants": "6/8",
       "title": "All 4U Mise en jeu",
       "coach": "Kenan D"
     },
@@ -221,8 +221,8 @@
       "iso": "2026-12-01",
       "start": "16:00",
       "end": "17:00",
-      "status": "ok",
-      "participants": "4/6",
+      "status": "full",
+      "participants": "6/6",
       "title": "PERF Trick shot aux approches",
       "coach": "Kenan D"
     },
@@ -249,7 +249,7 @@
       "start": "15:00",
       "end": "16:00",
       "status": "ok",
-      "participants": "0/6",
+      "participants": "1/6",
       "title": "PERF Trick shot aux approches",
       "coach": "Guillaume P"
     },
@@ -321,7 +321,7 @@
       "start": "10:00",
       "end": "11:00",
       "status": "ok",
-      "participants": "2/6",
+      "participants": "3/6",
       "title": "PERF Trick shot aux approches",
       "coach": "Kenan D"
     },
@@ -329,8 +329,8 @@
       "iso": "2026-12-06",
       "start": "11:00",
       "end": "12:00",
-      "status": "almost",
-      "participants": "7/8",
+      "status": "full",
+      "participants": "8/8",
       "title": "All 4U Mise en jeu",
       "coach": "Kenan D"
     },
@@ -402,7 +402,7 @@
       "start": "17:00",
       "end": "18:00",
       "status": "ok",
-      "participants": "4/8",
+      "participants": "6/8",
       "title": "All 4U Putting",
       "coach": "Kenan D"
     },
@@ -428,8 +428,8 @@
       "iso": "2026-12-08",
       "start": "15:00",
       "end": "16:00",
-      "status": "ok",
-      "participants": "4/6",
+      "status": "almost",
+      "participants": "5/6",
       "title": "Parcours 1h",
       "coach": "Kenan D"
     },
